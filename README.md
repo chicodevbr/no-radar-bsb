@@ -2,6 +2,8 @@
 
 Agenda cultural do Distrito Federal inteiro (Plano Piloto e as 35 regiões administrativas), com antecedência, em JSON aberto. Atualizada toda segunda-feira. No Instagram: [@noradarbsb](https://www.instagram.com/noradarbsb/).
 
+**Site com a agenda completa:** https://chicodevbr.github.io/no-radar-bsb/ (página estática em `index.html`, `estilo.css` e `agenda.js`, sem build: lê o `eventos.json` direto).
+
 O arquivo é [`eventos.json`](eventos.json): os eventos que ainda não passaram, mais os projetos culturais com fomento público que ainda não têm data.
 
 ## De onde vem

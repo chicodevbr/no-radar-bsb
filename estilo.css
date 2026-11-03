@@ -1,0 +1,107 @@
+/* No Radar BSB: tokens do design system (tema Noite) */
+:root {
+  --nr-noite: #1E1640;
+  --nr-nevoa: #F4F1FF;
+  --nr-limao: #D7FF3B;
+  --nr-lavanda: #B9A8F5;
+  --nr-ameixa: #2D2260;
+  --nr-fonte-titulo: "Archivo Black", "Arial Black", sans-serif;
+  --nr-fonte-texto: "Space Grotesk", system-ui, sans-serif;
+  --nr-raio-md: 12px;
+  --nr-raio-pill: 999px;
+  --espaco-1: 8px;
+  --espaco-2: 16px;
+  --espaco-3: 24px;
+  --espaco-4: 32px;
+  --espaco-6: 48px;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--nr-noite);
+  color: var(--nr-nevoa);
+  font: 500 17px/1.55 var(--nr-fonte-texto);
+}
+a { color: var(--nr-nevoa); text-underline-offset: 3px; }
+a:hover { color: var(--nr-limao); }
+:focus-visible { outline: 3px solid var(--nr-limao); outline-offset: 2px; }
+
+.largura { max-width: 880px; margin: 0 auto; padding: 0 var(--espaco-2); }
+
+/* Topo */
+.topo { position: relative; overflow: hidden; padding: var(--espaco-4) 0 var(--espaco-6); border-bottom: 2px solid var(--nr-ameixa); }
+.radar-fundo { position: absolute; top: 0; right: 0; width: min(420px, 90vw); height: auto; opacity: .1; pointer-events: none; }
+.radar-fundo circle { fill: none; stroke: var(--nr-limao); stroke-width: 2; }
+.radar-fundo .feixe { fill: var(--nr-limao); opacity: .6; }
+
+.marca { display: inline-flex; align-items: center; flex-wrap: wrap; gap: 0 4px; text-decoration: none; color: var(--nr-nevoa); font: 400 32px/1 var(--nr-fonte-titulo); letter-spacing: -1px; }
+.marca:hover { color: var(--nr-nevoa); }
+.marca-o { width: 30px; height: 30px; }
+.marca-feixe { transform-origin: 50px 50px; animation: girar 4s linear infinite; }
+.marca-bsb { flex-basis: 100%; margin-top: 6px; padding-top: 6px; border-top: 1px solid var(--nr-lavanda); color: var(--nr-limao); font: 700 14px/1 var(--nr-fonte-texto); letter-spacing: 10px; }
+@keyframes girar { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .marca-feixe { animation: none; } }
+
+.topo h1 { position: relative; margin: var(--espaco-4) 0 var(--espaco-2); font: 400 clamp(34px, 7vw, 56px)/0.95 var(--nr-fonte-titulo); letter-spacing: -2px; max-width: 16ch; }
+.topo h1 em { font-style: normal; color: var(--nr-limao); }
+.sub { position: relative; margin: 0; color: var(--nr-lavanda); max-width: 52ch; }
+
+/* Filtros */
+.filtros { margin: var(--espaco-4) 0 var(--espaco-3); display: grid; gap: var(--espaco-2); }
+.periodos { display: flex; gap: var(--espaco-1); flex-wrap: wrap; }
+.periodos input, .gratis input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.periodos span, .gratis span {
+  display: inline-block; padding: 10px 18px; border: 2px solid var(--nr-lavanda); border-radius: var(--nr-raio-pill);
+  color: var(--nr-lavanda); font-weight: 700; font-size: 14px; letter-spacing: 2px; text-transform: uppercase; cursor: pointer;
+}
+.periodos input:checked + span, .gratis input:checked + span { background: var(--nr-limao); border-color: var(--nr-limao); color: var(--nr-noite); }
+.periodos input:focus-visible + span, .gratis input:focus-visible + span { outline: 3px solid var(--nr-limao); outline-offset: 2px; }
+.campos { display: grid; grid-template-columns: 1fr; gap: var(--espaco-2); align-items: end; }
+@media (min-width: 720px) { .campos { grid-template-columns: 2fr 1fr 1fr auto; } }
+.campo { display: grid; gap: 4px; font-size: 14px; color: var(--nr-lavanda); letter-spacing: .5px; }
+.campo input, .campo select {
+  width: 100%; padding: 10px 12px; border: 2px solid var(--nr-ameixa); border-radius: var(--nr-raio-md);
+  background: var(--nr-ameixa); color: var(--nr-nevoa); font: 500 16px var(--nr-fonte-texto);
+}
+.campo input::placeholder { color: var(--nr-lavanda); opacity: .8; }
+
+.contagem { margin: 0 0 var(--espaco-2); color: var(--nr-lavanda); font-size: 14px; letter-spacing: .5px; }
+
+/* Agenda */
+.grupo { margin-bottom: var(--espaco-6); }
+.grupo h2 {
+  margin: 0 0 var(--espaco-1); padding-bottom: var(--espaco-1); border-bottom: 2px solid var(--nr-ameixa);
+  color: var(--nr-lavanda); font: 700 14px/1.2 var(--nr-fonte-texto); letter-spacing: 4px; text-transform: uppercase;
+}
+.grupo h2 b { color: var(--nr-limao); font-weight: 700; }
+.grupo .nota { margin: 0 0 var(--espaco-1); color: var(--nr-lavanda); font-size: 14px; }
+
+.card { display: grid; grid-template-columns: 76px minmax(0, 1fr); gap: var(--espaco-2); padding: var(--espaco-2) 0; border-bottom: 1px solid var(--nr-ameixa); }
+.quando { display: grid; align-content: start; gap: 2px; }
+.dia { color: var(--nr-limao); font: 400 22px/1 var(--nr-fonte-titulo); letter-spacing: -.5px; }
+.hora { color: var(--nr-lavanda); font-size: 14px; font-weight: 700; }
+.titulo { margin: 0 0 4px; font: 700 20px/1.2 var(--nr-fonte-texto); }
+@media (min-width: 720px) { .titulo { font-size: 24px; } .card { grid-template-columns: 96px minmax(0, 1fr); } }
+.meta { margin: 0; color: var(--nr-lavanda); font-size: 15px; letter-spacing: .3px; }
+.links { margin: 6px 0 0; font-size: 15px; display: flex; flex-wrap: wrap; gap: 4px 16px; }
+.etiquetas { display: flex; flex-wrap: wrap; gap: var(--espaco-1); margin-bottom: 6px; }
+.etiqueta {
+  padding: 3px 10px; border: 1.5px solid var(--nr-lavanda); border-radius: var(--nr-raio-pill);
+  color: var(--nr-lavanda); font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;
+}
+.etiqueta.novo { background: var(--nr-limao); border-color: var(--nr-limao); color: var(--nr-noite); }
+.etiqueta.alerta { border-color: var(--nr-nevoa); color: var(--nr-nevoa); }
+.card.cancelado .titulo { text-decoration: line-through; }
+
+.vazio { padding: var(--espaco-4) 0; color: var(--nr-lavanda); }
+
+/* Rodapé */
+.rodape { margin-top: var(--espaco-6); padding: var(--espaco-4) 0 var(--espaco-6); background: var(--nr-ameixa); }
+.rodape h2 { margin: 0 0 var(--espaco-2); font: 400 28px/1 var(--nr-fonte-titulo); letter-spacing: -1px; }
+.rodape p { max-width: 62ch; }
+.atualizado { color: var(--nr-lavanda); font-size: 14px; }
+.mes { margin: var(--espaco-6) 0 var(--espaco-2); color: var(--nr-nevoa); font: 400 32px/1 var(--nr-fonte-titulo); letter-spacing: -1px; }
+.mes::first-letter { text-transform: uppercase; }

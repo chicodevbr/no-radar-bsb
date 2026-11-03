@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>No Radar BSB · agenda cultural do DF</title>
+<meta name="description" content="Agenda cultural do DF inteiro, com antecedência: shows, teatro, exposições, cinema e os projetos aprovados com dinheiro público.">
+<meta name="theme-color" content="#1E1640">
+<link rel="icon" href="avatar.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Space+Grotesk:wght@500;700&display=swap">
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+<header class="topo">
+  <svg class="radar-fundo" viewBox="0 0 400 400" aria-hidden="true">
+    <circle cx="400" cy="0" r="120"/><circle cx="400" cy="0" r="220"/><circle cx="400" cy="0" r="320"/>
+    <path class="feixe" d="M400 0 L400 330 A330 330 0 0 1 150 215 Z"/>
+  </svg>
+  <div class="largura">
+    <a class="marca" href="./" aria-label="No Radar BSB, início">
+      <span class="marca-n">N</span><svg class="marca-o" viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="38" fill="none" stroke="currentColor" stroke-width="22"/><g class="marca-feixe"><path d="M50 50 L50 23 A27 27 0 0 1 73 36 Z" fill="var(--nr-limao)" opacity=".45"/><path d="M50 50 L50 23" stroke="var(--nr-limao)" stroke-width="3" stroke-linecap="round"/></g><circle cx="50" cy="50" r="3.5" fill="var(--nr-limao)"/><circle cx="62" cy="60" r="4.5" fill="var(--nr-limao)"/></svg><span class="marca-radar">RADAR</span>
+      <span class="marca-bsb">BSB</span>
+    </a>
+    <h1>A agenda cultural do DF inteiro, <em>antes</em> de todo mundo.</h1>
+    <p class="sub">Shows, teatro, exposições, cinema e os projetos aprovados com dinheiro público, do Plano Piloto às RAs. Tudo com a fonte, para conferir.</p>
+  </div>
+</header>
+
+<main class="largura">
+  <form class="filtros" id="filtros" role="search" aria-label="Filtrar a agenda">
+    <div class="periodos" role="radiogroup" aria-label="Período">
+      <label><input type="radio" name="periodo" value="hoje"><span>Hoje</span></label>
+      <label><input type="radio" name="periodo" value="semana"><span>7 dias</span></label>
+      <label><input type="radio" name="periodo" value="tudo" checked><span>Tudo</span></label>
+    </div>
+    <div class="campos">
+      <label class="campo"><span>Buscar</span><input type="search" name="q" placeholder="artista, espaço, palavra"></label>
+      <label class="campo"><span>Categoria</span><select name="categoria"><option value="">todas</option></select></label>
+      <label class="campo"><span>Região</span><select name="ra"><option value="">todo o DF</option></select></label>
+      <label class="gratis"><input type="checkbox" name="gratuito"><span>Só gratuitos</span></label>
+    </div>
+  </form>
+
+  <p class="contagem" id="contagem" aria-live="polite">Carregando a agenda…</p>
+  <div id="agenda"></div>
+</main>
+
+<footer class="rodape">
+  <div class="largura">
+    <section id="sobre">
+      <h2>Sobre</h2>
+      <p>O No Radar BSB junta a programação dos equipamentos culturais, das bilheterias e dos projetos de fomento publicados no Diário Oficial do DF. A coleta é automática e atualizada toda segunda-feira.</p>
+      <p><strong>Datas, preços e locais podem mudar: confira sempre na fonte do evento.</strong></p>
+      <p>No Instagram: <a href="https://www.instagram.com/noradarbsb/">@noradarbsb</a>. Os dados estão abertos em <a href="eventos.json">eventos.json</a> (<a href="https://github.com/chicodevbr/no-radar-bsb">repositório</a>), sob a licença <a href="https://creativecommons.org/licenses/by/4.0/deed.pt_BR">CC BY 4.0</a>.</p>
+      <p class="atualizado" id="atualizado"></p>
+    </section>
+  </div>
+</footer>
+
+<template id="tpl-card">
+  <article class="card">
+    <div class="quando"><span class="dia"></span><span class="hora"></span></div>
+    <div class="corpo">
+      <div class="etiquetas"></div>
+      <h3 class="titulo"></h3>
+      <p class="meta"></p>
+      <p class="links"></p>
+    </div>
+  </article>
+</template>
+
+<script src="agenda.js"></script>
+</body>
+</html>
