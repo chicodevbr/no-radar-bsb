@@ -145,7 +145,10 @@ function card(e, s) {
   if (e.status === "adiado") etiqueta("Adiado", "alerta");
   if (e.status === "esgotado") etiqueta("Esgotado", "alerta");
 
-  no.querySelector(".titulo").textContent = caixaNormal(e.titulo);
+  const titulo = document.createElement("a");
+  titulo.href = `evento/${encodeURIComponent(e.id)}/`;
+  titulo.textContent = caixaNormal(e.titulo);
+  no.querySelector(".titulo").append(titulo);
 
   const meta = [];
   if (e.local) meta.push(e.local);
