@@ -1,6 +1,6 @@
-# Radar cultural do DF
+# No Radar BSB
 
-Agenda cultural do Distrito Federal inteiro (Plano Piloto e as 35 regiões administrativas), com antecedência, em JSON aberto. Atualizada toda segunda-feira.
+Agenda cultural do Distrito Federal inteiro (Plano Piloto e as 35 regiões administrativas), com antecedência, em JSON aberto. Atualizada toda segunda-feira. No Instagram: [@noradarbsb](https://www.instagram.com/noradarbsb/).
 
 O arquivo é [`eventos.json`](eventos.json): os eventos que ainda não passaram, mais os projetos culturais com fomento público que ainda não têm data.
 
@@ -36,6 +36,6 @@ A lista `locais` traz o nome, a RA e o endereço dos locais citados. A RA de um 
 
 ## Licença
 
-Os dados deste repositório estão sob a licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br) (texto completo em [`LICENSE`](LICENSE)). Pode usar, copiar, adaptar e redistribuir, inclusive para fins comerciais, desde que cite a fonte. Por exemplo: "Fonte: Radar cultural do DF (github.com/chicodevbr/radar-cultural-df), CC BY 4.0".
+Os dados deste repositório estão sob a licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br) (texto completo em [`LICENSE`](LICENSE)). Pode usar, copiar, adaptar e redistribuir, inclusive para fins comerciais, desde que cite a fonte. Por exemplo: "Fonte: No Radar BSB (github.com/chicodevbr/no-radar-bsb), CC BY 4.0".
 
 A licença vale para a compilação (a agenda, os campos e a organização). Os textos, imagens e páginas das fontes de cada evento continuam com os seus donos: o radar só aponta para eles.
