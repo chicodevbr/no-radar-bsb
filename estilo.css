@@ -123,3 +123,6 @@ a:hover { color: var(--nr-limao); }
 .botao.contorno { background: none; color: var(--nr-limao); }
 .botao.contorno:hover { color: var(--nr-noite); background: var(--nr-limao); }
 .evento-fonte { margin-top: var(--espaco-4); color: var(--nr-lavanda); font-size: 15px; }
+.evento-resumo { margin: 0; max-width: 60ch; font-size: 19px; }
+.evento-aviso { margin: 6px 0 var(--espaco-4); color: var(--nr-lavanda); font-size: 13px; letter-spacing: 1px; text-transform: uppercase; }
+.resumo { margin: 4px 0 0; font-size: 15px; max-width: 62ch; }

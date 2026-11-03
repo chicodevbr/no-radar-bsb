@@ -158,6 +158,12 @@ function card(e, s) {
   if (s.tipo === "dia" && s.extras > 0) meta.push(`+${s.extras} ${s.extras === 1 ? "data" : "datas"}`);
   if (e.classificacao_etaria) meta.push(e.classificacao_etaria);
   no.querySelector(".meta").textContent = meta.join(" · ");
+  if (e.resumo) {
+    const resumo = document.createElement("p");
+    resumo.className = "resumo";
+    resumo.textContent = e.resumo;
+    no.querySelector(".meta").after(resumo);
+  }
 
   const links = no.querySelector(".links");
   const link = (texto, href) => {

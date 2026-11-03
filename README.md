@@ -30,6 +30,7 @@ Cada evento traz o link das fontes em que foi encontrado. **Datas, preços e loc
 | `gratuito`, `preco_min`, `preco_max` | Preço em reais, quando a fonte diz. |
 | `link_ingresso` | Link de ingresso ou inscrição. |
 | `classificacao_etaria`, `acessibilidade` | Como a fonte escreve. |
+| `resumo` | Uma frase sobre o evento, escrita automaticamente (por IA) a partir da página da fonte, nunca copiada dela. Só nos eventos dos equipamentos culturais; nos outros, `null`. Confira na fonte. |
 | `fontes` | Nome e link de cada fonte em que o evento apareceu. |
 | `historico` | Cada mudança de status, com a data. |
 | `primeira_deteccao`, `ultima_atualizacao` | Quando o radar viu o evento pela primeira vez e quando ele mudou por último. |
