@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-03T19:59:48-03:00",
+ "gerado_em": "2026-11-03T20:38:09-03:00",
  "territorio": "Distrito Federal",
  "aviso": "Agenda coletada de fontes públicas (DODF, sites dos equipamentos culturais, bilheterias) pela Pheme. Datas, preços e locais podem mudar: confira sempre na fonte do evento.",
  "licenca": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
@@ -25,6 +25,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "livre para todos os públicos",
    "acessibilidade": [],
+   "resumo": "Galeria Acervo. Mostra inédita de Vivian Caccuri com sons, instalações e obras têxteis em percurso sensorial.",
    "fontes": [
     {
      "nome": "Caixa Cultural Brasília",
@@ -63,6 +64,7 @@
    "link_ingresso": "https://ingressosccbb.com.br/teatro-confuzo-esta-escurecendo-dentro-de-mim__4138",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Peça em cartaz no CCBB Brasília até 08/11/26.",
    "fontes": [
     {
      "nome": "CCBB Brasília",
@@ -101,6 +103,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "Não recomendado para menores de 12 anos",
    "acessibilidade": [],
+   "resumo": "Cinema Dias. Primeiras exibições do documentário sobre a vida e a obra de André Curti e Artur Luanda Ribeiro.",
    "fontes": [
     {
      "nome": "CCBB Brasília",
@@ -135,6 +138,7 @@
    "link_ingresso": "https://ingressosccbb.com.br/exposicao-vik-muniz-a-olho-nu__4140",
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": "Galerias 1 e 2. Retrospectiva com cerca de 188 obras de Vik Muniz, entre fotografias, esculturas e objetos.",
    "fontes": [
     {
      "nome": "CCBB Brasília",
@@ -169,6 +173,7 @@
    "link_ingresso": "https://bilheteriacultural.com.br/eventos-detalhes/223",
    "classificacao_etaria": "não recomendado para menores de 14 anos",
    "acessibilidade": [],
+   "resumo": "Espetáculo com Osmar Prado e Maurício Machado, direção de Eduardo Figueiredo, com música ao vivo.",
    "fontes": [
     {
      "nome": "Caixa Cultural Brasília",
@@ -203,6 +208,7 @@
    "link_ingresso": null,
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Longa brasiliense de Leo Bello em cartaz no Cine Brasília nesta semana.",
    "fontes": [
     {
      "nome": "Secec DF",
@@ -237,6 +243,7 @@
    "link_ingresso": null,
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Longa de Ana Luiza Azevedo em cartaz no Cine Brasília nesta semana.",
    "fontes": [
     {
      "nome": "Secec DF",
@@ -271,6 +278,7 @@
    "link_ingresso": null,
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Mostra de registros fotográficos de Vladimír Kozák e Mnislav Atapana Zelený sobre culturas indígenas brasileiras.",
    "fontes": [
     {
      "nome": "Secec DF",
@@ -305,6 +313,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/coral-habeas-cantus-entre-amigos-part-carol-carneiro-03-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Espetáculo do Coral Habeas Cantus com participação de Carol Carneiro.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -339,6 +348,7 @@
    "link_ingresso": "https://ingressosccbb.com.br/ccbb-brasilia-apresenta-clube-de-leitura-com-ruy-castro-e-heloisa-seixas__4162",
    "classificacao_etaria": "14 anos",
    "acessibilidade": [],
+   "resumo": "Encontro com os escritores Ruy Castro e Heloisa Seixas, com mediação e conversa sobre biografia e memória.",
    "fontes": [
     {
      "nome": "CCBB Brasília",
@@ -373,6 +383,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/um-girassol-para-lo-um-ano-de-saudade-com-rodrigo-borges-04-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Show de homenagem a Lô Borges e ao Clube da Esquina, com Rodrigo Borges.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -407,6 +418,7 @@
    "link_ingresso": null,
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "21ª edição do festival com a retrospectiva “Itália em Cena”, com 24 filmes, em salas de diversas cidades.",
    "fontes": [
     {
      "nome": "CCBB Brasília",
@@ -443,6 +455,7 @@
    "acessibilidade": [
     "interprete de Libras"
    ],
+   "resumo": "Teatro Dia. Encontro aberto com os diretores da Cia. Dos à Deux sobre a pesquisa cênica da companhia.",
    "fontes": [
     {
      "nome": "CCBB Brasília",
@@ -477,6 +490,7 @@
    "link_ingresso": "https://checkout2.bilheteriadigital.com/gafieira-pindorama-05-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Apresentação de samba e gafieira com repertório que homenageia grandes mestres do gênero.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -511,6 +525,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/passo-largo-15-anos-06-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Show comemorativo de 15 anos do trio de rock instrumental brasiliense Passo Largo, com convidados.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -545,6 +560,7 @@
    "link_ingresso": null,
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Sala Gente Arteira. Atividade sensorial para a primeira infância inspirada na obra de Frans Krajcberg, sem necessidade de inscrição.",
    "fontes": [
     {
      "nome": "Caixa Cultural Brasília",
@@ -579,6 +595,7 @@
    "link_ingresso": null,
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Sala Gente Arteira. Contação de histórias sobre os irmãos Ayo e Oké, inspirada nos Ibejis, com participação interativa.",
    "fontes": [
     {
      "nome": "Caixa Cultural Brasília",
@@ -613,6 +630,7 @@
    "link_ingresso": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__WJ_c6RURVBZNUU2N0cyUUYyTUhRQjU4WjkzRkFTSyQlQCNjPTEu&route=shorturl",
    "classificacao_etaria": "crianças de 6 a 12 anos",
    "acessibilidade": [],
+   "resumo": "Sala Gente Arteira. Oficina infantil sobre símbolos Adinkra com técnicas de carimbo e estamparia manual.",
    "fontes": [
     {
      "nome": "Caixa Cultural Brasília",
@@ -647,6 +665,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "12 anos",
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "Sesc DF",
@@ -681,6 +700,7 @@
    "link_ingresso": "https://checkout2.bilheteriadigital.com/bau-revirado-07-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Espetáculo que resgata relíquias e clássicos da música popular brasileira no Clube do Choro de Brasília.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -715,6 +735,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "Sesi Lab",
@@ -752,6 +773,7 @@
     "audiodescrição",
     "materiais em braile"
    ],
+   "resumo": "Galerias Principal, Piccola I e II. Exposição de trabalhos do artista Frans Krajcberg sobre devastação ambiental, com recursos de acessibilidade.",
    "fontes": [
     {
      "nome": "Caixa Cultural Brasília",
@@ -786,6 +808,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/claire-michael-group-turne-tiger-note-10-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Turnê do projeto Tiger Note com jazz contemporâneo e improvisação, liderado por Claire Michael.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -820,6 +843,7 @@
    "link_ingresso": "https://checkout2.bilheteriadigital.com/tom-jobim-a-musica-que-encantou-o-mundo-11-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Espetáculo homenageando Tom Jobim e a bossa nova.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -854,6 +878,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "Sesi Lab",
@@ -888,6 +913,7 @@
    "link_ingresso": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__WJ_c6RUMFY0N1VGNVFNRk83QTJEUEJRMEROM1ZRMS4u&route=shorturl",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Sala Gente Arteira. Oficina prática de introdução à produção musical com ferramentas digitais, com inscrições gratuitas.",
    "fontes": [
     {
      "nome": "Caixa Cultural Brasília",
@@ -922,6 +948,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/bailarinas-por-que-nao-christmas-special-12-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Espetáculo de dança com trilhas e canções natalinas, no clima de fim de ano.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -956,6 +983,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/viva-minas-telo-borges-e-banda-ventos-solares-13-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Show de Telo Borges e a banda Ventos Solares com exaltação à música mineira e ao Clube da Esquina.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -990,6 +1018,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "14 anos",
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "Sesi Lab",
@@ -1024,6 +1053,7 @@
    "link_ingresso": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__WJ_c6RUMkpYUkpBRE9DS1gzUkcwSEU2T0M5OUtWTS4u&route=shorturl",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Sala Gente Arteira. Oficina de luteria de berimbau seguida de roda de capoeira, com inscrições gratuitas.",
    "fontes": [
     {
      "nome": "Caixa Cultural Brasília",
@@ -1058,6 +1088,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/jingle-blues-blues-raiz-para-viver-e-sentir-17-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Show de blues no Clube do Choro de Brasília.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -1092,6 +1123,7 @@
    "link_ingresso": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__WJ_c6RUNURVN0RCNDlTSEhJRjUxNFQ3QzFGRkg1TCQlQCNjPTEu",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Sala Gente Arteira. Workshop para educadores sobre música, percussão e cultura afro-brasileira nas escolas, com inscrições gratuitas.",
    "fontes": [
     {
      "nome": "Caixa Cultural Brasília",
@@ -1126,6 +1158,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/lairson-e-as-meninas-6a-edicao-18-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Sexta edição do projeto Lairson e As Meninas, celebrando a música popular brasileira com arranjos e vozes marcantes.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -1160,6 +1193,7 @@
    "link_ingresso": null,
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Espetáculo da Cia. Pierrot Lunar sobre tempo, memória e reinvenção, com direção de Lydia Del Picchia.",
    "fontes": [
     {
      "nome": "CCBB Brasília",
@@ -1194,6 +1228,7 @@
    "link_ingresso": "https://checkout2.bilheteriadigital.com/gigio-teixeira-country-heroes-19-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Show de country music com clássicos e ícones do gênero.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -1228,6 +1263,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "Sesi Lab",
@@ -1262,6 +1298,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "Sesi Lab",
@@ -1296,6 +1333,7 @@
    "link_ingresso": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__WJ_c6RUOUM4MTVPUjZRRFNBRFJWRVNSREFVMks5RyQlQCNjPTEu&route=shorturl",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Sala Gente Arteira. Vivência de percussão afro-baiana conduzida pela Quabales Banda, com composição percussiva coletiva, com inscrições gratuitas.",
    "fontes": [
     {
      "nome": "Caixa Cultural Brasília",
@@ -1330,6 +1368,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "Sesi Lab",
@@ -1364,6 +1403,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "Sesi Lab",
@@ -1398,6 +1438,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "Sesi Lab",
@@ -1432,6 +1473,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/banda-patacori-musica-para-o-povo-de-terreiro-20-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Espetáculo com tambores, cantos sagrados e músicas de matriz afro-brasileira, no Dia da Consciência Negra.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -1466,6 +1508,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "Sesi Lab",
@@ -1500,6 +1543,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "Sesi Lab",
@@ -1534,6 +1578,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/dani-black-turne-uma-cidade-chamada-eu-mesmo-o-maior-coral-da-cidade-21-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Show do cantor e compositor Dani Black, turnê Uma Cidade Chamada Eu Mesmo.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -1568,6 +1613,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "Sesi Lab",
@@ -1602,6 +1648,7 @@
    "link_ingresso": "https://checkout2.bilheteriadigital.com/nelson-faria-e-sandro-haick-em-talking-standarts-volumes-1-e-2-24-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Show de música instrumental com clássicos do jazz e da música brasileira.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -1636,6 +1683,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/de-vento-em-popa-aquarelas-brasileiras-cores-do-choro-25-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Espetáculo dedicado ao choro no Clube do Choro de Brasília.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -1670,6 +1718,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/pablo-fagundes-e-douglas-lora-27-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Show do duo de gaita e violão de 7 cordas no Clube do Choro de Brasília.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -1704,6 +1753,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "Sesi Lab",
@@ -1738,6 +1788,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/a-guitarra-magnetica-de-haroldinho-mattos-28-de-novembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Show do guitarrista Haroldinho Mattos no Clube do Choro de Brasília.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -1772,6 +1823,7 @@
    "link_ingresso": null,
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "Sesi Lab",
@@ -1806,6 +1858,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/show-beneficente-com-nebo-o-melhor-dos-anos-70-e-80-01-de-dezembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Show beneficente com repertório de sucessos do rock e pop dos anos 70 e 80.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -1840,6 +1893,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/caminhos-cruzados-tributo-a-tom-jobim-e-newton-mendonca-02-de-dezembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Espetáculo que homenageia a parceria de Tom Jobim e Newton Mendonça, com clássicos da Bossa Nova.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -1874,6 +1928,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/jambeiro-solidario-com-renata-jambeiro-15-de-dezembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Show da cantora Renata Jambeiro, com samba, em noite festiva solidária.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -1908,6 +1963,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/beto-dourah-beto-canta-beto-17-de-dezembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Espetáculo autoral de Beto Dourah revisitando sua trajetória com canções de MPB.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -1942,6 +1998,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/balada-s-a-18-de-dezembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Show da banda Balada S.A. com clássicos do pop, rock e ritmos dançantes.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -1976,6 +2033,7 @@
    "link_ingresso": "https://www.bilheteriadigital.com/milton-guedes-pra-dancar-19-de-dezembro",
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Show do multi-instrumentista Milton Guedes com repertório de pop, MPB e clássicos dançantes.",
    "fontes": [
     {
      "nome": "Clube do Choro",
@@ -2008,6 +2066,7 @@
    "link_ingresso": null,
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "dodf_cultura",
@@ -2045,6 +2104,7 @@
     "Intérprete em Libras",
     "audiodescrição"
    ],
+   "resumo": "Revista musical inspirada em Noel Rosa, com 21 canções do compositor no Teatro do CCBB Brasília.",
    "fontes": [
     {
      "nome": "CCBB Brasília",
@@ -2077,6 +2137,7 @@
    "link_ingresso": null,
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "dodf_cultura",
@@ -2111,6 +2172,7 @@
    "link_ingresso": null,
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": "Exposição que homenageia a trajetória de um grande nome da arte contemporânea brasileira, com obras desde o início da carreira.",
    "fontes": [
     {
      "nome": "Caixa Cultural Brasília",
@@ -2148,6 +2210,7 @@
     "Libras",
     "audiodescrição"
    ],
+   "resumo": "Espetáculo infantil de dança, teatro e circo com quatro palhaços inspirados em histórias em quadrinhos.",
    "fontes": [
     {
      "nome": "CCBB Brasília",
@@ -2182,6 +2245,7 @@
    "link_ingresso": "https://ingressosccbb.com.br/exposicao-mostra-ccbb-brasilia-25-anos-arte-viva-memoria-presente__3205",
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": "Galeria 5. Mostra permanente com fotografias, registros audiovisuais, documentos e objetos sobre a trajetória do CCBB Brasília.",
    "fontes": [
     {
      "nome": "CCBB Brasília",
@@ -2214,6 +2278,7 @@
    "link_ingresso": null,
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "dodf_cultura",
@@ -2250,6 +2315,7 @@
    "link_ingresso": null,
    "classificacao_etaria": null,
    "acessibilidade": [],
+   "resumo": null,
    "fontes": [
     {
      "nome": "dodf_cultura",
@@ -2286,6 +2352,7 @@
    "acessibilidade": [
     "Libras"
    ],
+   "resumo": "Sala do Programa Educativo. Encontros de convivência e aprendizado em Libras, com jogos e visitas às exposições.",
    "fontes": [
     {
      "nome": "CCBB Brasília",
@@ -2320,6 +2387,7 @@
    "link_ingresso": "https://ingressosccbb.com.br/programa-educativo-role-cultural-novembro__4180",
    "classificacao_etaria": "Livre",
    "acessibilidade": [],
+   "resumo": "Sala do Programa Educativo. Programa educativo gratuito com jogos, leitura, visitas mediadas e atividades, de terça a domingo.",
    "fontes": [
     {
      "nome": "CCBB Brasília",
