@@ -1,0 +1,2383 @@
+{
+ "versao": 1,
+ "gerado_em": "2026-11-03T15:56:21-03:00",
+ "territorio": "Distrito Federal",
+ "aviso": "Agenda coletada de fontes públicas (DODF, sites dos equipamentos culturais, bilheterias) pela Pheme. Datas, preços e locais podem mudar: confira sempre na fonte do evento.",
+ "licenca": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+ "total": 68,
+ "eventos": [
+  {
+   "id": "evento-6352080a6bef",
+   "titulo": "Selva Elétrica - Vivian Caccuri",
+   "categoria": "exposicao",
+   "status": "confirmado",
+   "inicio": "2026-08-18T19:00:00-03:00",
+   "fim": "2026-11-22T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "caixa-cultural-brasilia",
+   "local": "Caixa Cultural Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "livre para todos os públicos",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Caixa Cultural Brasília",
+     "url": "https://www.caixacultural.gov.br/Paginas/Programacao.aspx?idEvento=4809"
+    },
+    {
+     "nome": "Caixa Cultural Brasília",
+     "url": "https://www.caixacultural.gov.br/Paginas/Programacao.aspx?idEvento=3615"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-e5a65ac7143d",
+   "titulo": "CONFUZO (está escurecendo dentro de mim)",
+   "categoria": "teatro",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-10-22T00:00:00-03:00",
+   "fim": "2026-11-08T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "ccbb-brasilia",
+   "local": "Centro Cultural Banco do Brasil Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://ingressosccbb.com.br/teatro-confuzo-esta-escurecendo-dentro-de-mim__4138",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "CCBB Brasília",
+     "url": "https://ccbb.com.br/brasilia/programacao/vik-muniz-a-olho-nu/"
+    },
+    {
+     "nome": "CCBB Brasília",
+     "url": "https://ccbb.com.br/brasilia/programacao/confuzo-esta-escurecendo-dentro-de-mim/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-1097c210e365",
+   "titulo": "Documentário “O Gesto entre Nós”",
+   "categoria": "cinema",
+   "status": "confirmado",
+   "inicio": "2026-10-24T16:30:00-03:00",
+   "fim": "2026-11-07T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "ccbb-brasilia",
+   "local": "Centro Cultural Banco do Brasil Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "Não recomendado para menores de 12 anos",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "CCBB Brasília",
+     "url": "https://ccbb.com.br/brasilia/programacao/confuzo-esta-escurecendo-dentro-de-mim/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-865318c6da27",
+   "titulo": "Vik Muniz – A Olho Nu",
+   "categoria": "exposicao",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-10-27T09:00:00-03:00",
+   "fim": "2027-01-31T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "ccbb-brasilia",
+   "local": "Centro Cultural Banco do Brasil Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://ingressosccbb.com.br/exposicao-vik-muniz-a-olho-nu__4140",
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "CCBB Brasília",
+     "url": "https://ccbb.com.br/brasilia/programacao/vik-muniz-a-olho-nu/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-c60b922e78a8",
+   "titulo": "O Veneno do Teatro",
+   "categoria": "teatro",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-10-27T20:00:00-03:00",
+   "fim": "2026-11-08T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "caixa-cultural-brasilia",
+   "local": "Caixa Cultural Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": false,
+   "preco_min": 15.0,
+   "preco_max": 30.0,
+   "link_ingresso": "https://bilheteriacultural.com.br/eventos-detalhes/223",
+   "classificacao_etaria": "não recomendado para menores de 14 anos",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Caixa Cultural Brasília",
+     "url": "https://www.caixacultural.gov.br/Paginas/Programacao.aspx?idEvento=5136"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-a4587ff1bf6e",
+   "titulo": "Cartório das Almas",
+   "categoria": "cinema",
+   "status": "confirmado",
+   "inicio": "2026-10-29T00:00:00-03:00",
+   "fim": "2026-11-04T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "cine-brasilia",
+   "local": "Cine Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Secec DF",
+     "url": "https://www.cultura.df.gov.br/w/halloween-no-cine-brasilia-classico-carrie-a-estranha-e-destaque-da-programacao-da-semana"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T22:14:16.841217-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:14:16.841217-03:00",
+   "ultima_atualizacao": "2026-11-02T22:14:16.841217-03:00"
+  },
+  {
+   "id": "evento-b825353aea52",
+   "titulo": "Medley",
+   "categoria": "cinema",
+   "status": "confirmado",
+   "inicio": "2026-10-29T00:00:00-03:00",
+   "fim": "2026-11-04T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "cine-brasilia",
+   "local": "Cine Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Secec DF",
+     "url": "https://www.cultura.df.gov.br/w/halloween-no-cine-brasilia-classico-carrie-a-estranha-e-destaque-da-programacao-da-semana"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T22:14:16.841217-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:14:16.841217-03:00",
+   "ultima_atualizacao": "2026-11-02T22:14:16.841217-03:00"
+  },
+  {
+   "id": "evento-a1289ebd2007",
+   "titulo": "Os Povos Indígenas do Brasil no Olhar de Viajantes Tchecos",
+   "categoria": "exposicao",
+   "status": "confirmado",
+   "inicio": "2026-11-03T00:00:00-03:00",
+   "fim": "2027-01-31T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "memorial-povos-indigenas",
+   "local": "Memorial dos Povos Indígenas",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Secec DF",
+     "url": "https://www.cultura.df.gov.br/w/exposicao-no-memorial-dos-povos-indigenas-reune-registros-de-pesquisadores-tchecos-sobre-culturas-indigenas-brasileiras"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T22:14:16.841217-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:14:16.841217-03:00",
+   "ultima_atualizacao": "2026-11-02T22:14:16.841217-03:00"
+  },
+  {
+   "id": "evento-6ff9ec0ae729",
+   "titulo": "CORAL HABEAS CANTUS – ENTRE AMIGOS – PART.: CAROL CARNEIRO",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-03T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/coral-habeas-cantus-entre-amigos-part-carol-carneiro-03-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/03-11-coral-habeas-cantus-entre-amigos-part-carol-carneiro/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-597b9cb38b7c",
+   "titulo": "Clube de Leitura CCBB BSB",
+   "categoria": "literatura",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-04T18:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "ccbb-brasilia",
+   "local": "Centro Cultural Banco do Brasil Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://ingressosccbb.com.br/ccbb-brasilia-apresenta-clube-de-leitura-com-ruy-castro-e-heloisa-seixas__4162",
+   "classificacao_etaria": "14 anos",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "CCBB Brasília",
+     "url": "https://ccbb.com.br/brasilia/programacao/clube-de-leitura-ccbb-bsb/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-9b58a5e316e9",
+   "titulo": "UM GIRASSOL PARA LÔ – Um Ano de Saudade – Com Rodrigo Borges",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-04T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/um-girassol-para-lo-um-ano-de-saudade-com-rodrigo-borges-04-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/04-11-um-girassol-para-lo-um-ano-de-saudade-com-rodrigo-borges/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-4359b55444aa",
+   "titulo": "Festival de Cinema Italiano",
+   "categoria": "cinema",
+   "status": "confirmado",
+   "inicio": "2026-11-05T00:00:00-03:00",
+   "fim": "2026-11-29T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "ccbb-brasilia",
+   "local": "Centro Cultural Banco do Brasil Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "CCBB Brasília",
+     "url": "https://ccbb.com.br/brasilia/programacao/vem-ai/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-e5daefc90789",
+   "titulo": "Oficina “A Utopia da Pesquisa”",
+   "categoria": "outro",
+   "status": "confirmado",
+   "inicio": "2026-11-05T14:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "ccbb-brasilia",
+   "local": "Centro Cultural Banco do Brasil Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "Não recomendado para menores de 17 anos",
+   "acessibilidade": [
+    "interprete de Libras"
+   ],
+   "fontes": [
+    {
+     "nome": "CCBB Brasília",
+     "url": "https://ccbb.com.br/brasilia/programacao/confuzo-esta-escurecendo-dentro-de-mim/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-9e7dd5079462",
+   "titulo": "GAFIEIRA PINDORAMA",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-05T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://checkout2.bilheteriadigital.com/gafieira-pindorama-05-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/05-11-gafieira-pindorama/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-0b76cbc372f3",
+   "titulo": "PASSO LARGO — 15 ANOS",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-06T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/passo-largo-15-anos-06-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/06-11-passo-largo-15-anos/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-b1511f311a09",
+   "titulo": "Floresta Viva",
+   "categoria": "infantil",
+   "status": "confirmado",
+   "inicio": "2026-11-07T11:00:00-03:00",
+   "fim": "2026-11-29T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "caixa-cultural-brasilia",
+   "local": "Caixa Cultural Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Caixa Cultural Brasília",
+     "url": "https://www.caixacultural.gov.br/Paginas/Programacao.aspx?idEvento=5178"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-9db88f7445ee",
+   "titulo": "Ibejis",
+   "categoria": "infantil",
+   "status": "confirmado",
+   "inicio": "2026-11-07T15:00:00-03:00",
+   "fim": "2026-11-22T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "caixa-cultural-brasilia",
+   "local": "Caixa Cultural Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Caixa Cultural Brasília",
+     "url": "https://www.caixacultural.gov.br/Paginas/Programacao.aspx?idEvento=5170"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-7a039e743d76",
+   "titulo": "Carimbos Adinkra: Símbolos, Histórias e Criação",
+   "categoria": "infantil",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-07T16:00:00-03:00",
+   "fim": "2026-11-22T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "caixa-cultural-brasilia",
+   "local": "Caixa Cultural Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__WJ_c6RURVBZNUU2N0cyUUYyTUhRQjU4WjkzRkFTSyQlQCNjPTEu&route=shorturl",
+   "classificacao_etaria": "crianças de 6 a 12 anos",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Caixa Cultural Brasília",
+     "url": "https://www.caixacultural.gov.br/Paginas/Programacao.aspx?idEvento=5168"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-8100c8434e82",
+   "titulo": "Simplesmente eu, Clarice Lispector",
+   "categoria": "teatro",
+   "status": "confirmado",
+   "inicio": "2026-11-07T19:00:00-03:00",
+   "fim": "2026-11-08T19:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "sesc-gama",
+   "local": "Sesc Gama",
+   "ras": [
+    "Gama"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "12 anos",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Sesc DF",
+     "url": "https://www.sescdf.com.br/web/guest/eventos?evento=2503#/eventos/cultural/2503"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-184280b7bea1",
+   "titulo": "BAÚ REVIRADO",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-07T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://checkout2.bilheteriadigital.com/bau-revirado-07-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/07-11-bau-revirado/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-8dbef0969e23",
+   "titulo": "Dia Acessível",
+   "categoria": "outro",
+   "status": "confirmado",
+   "inicio": "2026-11-08T10:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "sesi-lab",
+   "local": "Sesi Lab",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Sesi Lab",
+     "url": "https://sesilab.com.br/programacao?evento=5053762"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-92357b0755f9",
+   "titulo": "Frans Krajcberg - Uma Semântica da Devastação",
+   "categoria": "exposicao",
+   "status": "confirmado",
+   "inicio": "2026-11-10T19:00:00-03:00",
+   "fim": "2027-01-10T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "caixa-cultural-brasilia",
+   "local": "Caixa Cultural Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "livre para todos os públicos",
+   "acessibilidade": [
+    "audiodescrição",
+    "materiais em braile"
+   ],
+   "fontes": [
+    {
+     "nome": "Caixa Cultural Brasília",
+     "url": "https://www.caixacultural.gov.br/Paginas/Programacao.aspx?idEvento=5189"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-b9ff050fcbbc",
+   "titulo": "CLAIRE MICHAEL GROUP - TIGER NOTE",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-10T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/claire-michael-group-turne-tiger-note-10-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/10-11-claire-michael-group-tiger-note/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-1d6a019d6752",
+   "titulo": "TOM JOBIM – A MÚSICA QUE ENCANTOU O MUNDO",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-11T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://checkout2.bilheteriadigital.com/tom-jobim-a-musica-que-encantou-o-mundo-11-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/11-11-tom-jobim-a-musica-que-encantou-o-mundo/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-334d8d254563",
+   "titulo": "Dia Gratuito - SHELL",
+   "categoria": "outro",
+   "status": "confirmado",
+   "inicio": "2026-11-12T09:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "sesi-lab",
+   "local": "Sesi Lab",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Sesi Lab",
+     "url": "https://sesilab.com.br/programacao?evento=5053818"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-36c9bb8852fa",
+   "titulo": "Beat do Zero",
+   "categoria": "outro",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-12T19:00:00-03:00",
+   "fim": "2026-11-15T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "caixa-cultural-brasilia",
+   "local": "Caixa Cultural Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__WJ_c6RUMFY0N1VGNVFNRk83QTJEUEJRMEROM1ZRMS4u&route=shorturl",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Caixa Cultural Brasília",
+     "url": "https://www.caixacultural.gov.br/Paginas/Programacao.aspx?idEvento=5176"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-cdc37b7f237a",
+   "titulo": "BAILARINAS, POR QUE NÃO? — CHRISTMAS SPECIAL",
+   "categoria": "danca",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-12T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/bailarinas-por-que-nao-christmas-special-12-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/12-11-bailarinas-por-que-nao-christmas-special/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-ed70703e4f19",
+   "titulo": "VIVA MINAS — TELO BORGES E BANDA VENTOS SOLARES",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-13T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/viva-minas-telo-borges-e-banda-ventos-solares-13-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/13-11-viva-minas-telo-borges-e-banda-ventos-solares/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-a6eab043f010",
+   "titulo": "Clube do Livro - 8º Encontro A parábola dos talentos (Octavia Butler)",
+   "categoria": "literatura",
+   "status": "confirmado",
+   "inicio": "2026-11-14T14:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "sesi-lab",
+   "local": "Sesi Lab",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "14 anos",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Sesi Lab",
+     "url": "https://sesilab.com.br/programacao?evento=5053826"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-12f5f59f95b8",
+   "titulo": "Ancestralidade que Ginga: Construção e Toque de Berimbau",
+   "categoria": "outro",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-14T15:00:00-03:00",
+   "fim": "2026-11-15T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "caixa-cultural-brasilia",
+   "local": "Caixa Cultural Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__WJ_c6RUMkpYUkpBRE9DS1gzUkcwSEU2T0M5OUtWTS4u&route=shorturl",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Caixa Cultural Brasília",
+     "url": "https://www.caixacultural.gov.br/Paginas/Programacao.aspx?idEvento=5177"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-35c4f8e4e40d",
+   "titulo": "JINGLE BLUES — BLUES RAIZ PARA VIVER E SENTIR",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-17T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/jingle-blues-blues-raiz-para-viver-e-sentir-17-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/17-11-jingle-blues-blues-raiz-para-viver-e-sentir/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-cf3ca705bf6f",
+   "titulo": "Workshop Eco-Ritmos",
+   "categoria": "outro",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-18T19:00:00-03:00",
+   "fim": "2026-11-19T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "caixa-cultural-brasilia",
+   "local": "Caixa Cultural Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__WJ_c6RUNURVN0RCNDlTSEhJRjUxNFQ3QzFGRkg1TCQlQCNjPTEu",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Caixa Cultural Brasília",
+     "url": "https://www.caixacultural.gov.br/Paginas/Programacao.aspx?idEvento=5200"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-f3f08d892c7b",
+   "titulo": "LAIRSON E AS MENINAS — 6ª EDIÇÃO",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-18T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/lairson-e-as-meninas-6a-edicao-18-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/18-11-lairson-e-as-meninas-6a-edicao/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-52167b6b2d99",
+   "titulo": "Eu Quero Ser Uma Locomotiva",
+   "categoria": "teatro",
+   "status": "confirmado",
+   "inicio": "2026-11-19T00:00:00-03:00",
+   "fim": "2026-12-06T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "ccbb-brasilia",
+   "local": "Centro Cultural Banco do Brasil Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "CCBB Brasília",
+     "url": "https://ccbb.com.br/brasilia/programacao/vem-ai/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-e7f5d4e41508",
+   "titulo": "GIGIO TEIXEIRA – COUNTRY HEROES",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-19T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://checkout2.bilheteriadigital.com/gigio-teixeira-country-heroes-19-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/19-11-gigio-teixeira-country-heroes/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-d3639c8cfefe",
+   "titulo": "Dia Gratuito - Semana de Zumbi",
+   "categoria": "outro",
+   "status": "confirmado",
+   "inicio": "2026-11-20T10:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "sesi-lab",
+   "local": "Sesi Lab",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Sesi Lab",
+     "url": "https://sesilab.com.br/programacao?evento=5053904"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-f6d097197b2a",
+   "titulo": "Feira",
+   "categoria": "outro",
+   "status": "confirmado",
+   "inicio": "2026-11-20T10:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "sesi-lab",
+   "local": "Sesi Lab",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Sesi Lab",
+     "url": "https://sesilab.com.br/programacao?evento=5053910"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-a788f3f0ebd7",
+   "titulo": "Vivência Percussiva Afro-Baiana",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-20T11:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "caixa-cultural-brasilia",
+   "local": "Caixa Cultural Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__WJ_c6RUOUM4MTVPUjZRRFNBRFJWRVNSREFVMks5RyQlQCNjPTEu&route=shorturl",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Caixa Cultural Brasília",
+     "url": "https://www.caixacultural.gov.br/Paginas/Programacao.aspx?idEvento=5201"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-e16225133501",
+   "titulo": "Oficina de pirogravuras com Lola",
+   "categoria": "outro",
+   "status": "confirmado",
+   "inicio": "2026-11-20T15:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "sesi-lab",
+   "local": "Sesi Lab",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Sesi Lab",
+     "url": "https://sesilab.com.br/programacao?evento=5053906"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-6ddff9d1ada5",
+   "titulo": "Roda de conversa \"Patrimônios da Negritude\"",
+   "categoria": "outro",
+   "status": "confirmado",
+   "inicio": "2026-11-20T16:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "sesi-lab",
+   "local": "Sesi Lab",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Sesi Lab",
+     "url": "https://sesilab.com.br/programacao?evento=5053908"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-74cac2ea3ca3",
+   "titulo": "Apresentação de rap com RAP DF",
+   "categoria": "musica",
+   "status": "confirmado",
+   "inicio": "2026-11-20T18:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "sesi-lab",
+   "local": "Sesi Lab",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Sesi Lab",
+     "url": "https://sesilab.com.br/programacao?evento=5053912"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-461f9c764689",
+   "titulo": "BANDA PATACORI – MÚSICA PARA O POVO DE TERREIRO",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-20T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/banda-patacori-musica-para-o-povo-de-terreiro-20-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/20-11-banda-patacori-musica-para-o-povo-de-terreiro/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-285e884ec446",
+   "titulo": "Dia Gratuito - Semana de Zumbi",
+   "categoria": "outro",
+   "status": "confirmado",
+   "inicio": "2026-11-21T10:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "sesi-lab",
+   "local": "Sesi Lab",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Sesi Lab",
+     "url": "https://sesilab.com.br/programacao?evento=5053918"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-cb2dfaf40497",
+   "titulo": "Ação Cultural SESI 80 anos - Apresentação com Núcleo Oficial NEOJIBA – DR/Bahia",
+   "categoria": "musica",
+   "status": "confirmado",
+   "inicio": "2026-11-21T16:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "sesi-lab",
+   "local": "Sesi Lab",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Sesi Lab",
+     "url": "https://sesilab.com.br/programacao?evento=5053920"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-d6f991c3838e",
+   "titulo": "DANI BLACK – Turnê Uma Cidade Chamada Eu Mesmo – O Maior Coral da Cidade",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-21T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/dani-black-turne-uma-cidade-chamada-eu-mesmo-o-maior-coral-da-cidade-21-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/21-11-dani-black-turne-uma-cidade-chamada-eu-mesmo-o-maior-coral-da-cidade/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-6dd760094f11",
+   "titulo": "Ação Cultural SESI 80 anos - Apresentação com Núcleo Oficial NEOJIBA – DR/Bahia",
+   "categoria": "musica",
+   "status": "confirmado",
+   "inicio": "2026-11-22T16:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "sesi-lab",
+   "local": "Sesi Lab",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Sesi Lab",
+     "url": "https://sesilab.com.br/programacao?evento=5053932"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-50495ad2bf21",
+   "titulo": "NELSON FARIA e SANDRO HAICK em TALKING STANDARTS – Volumes 1 e 2",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-24T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://checkout2.bilheteriadigital.com/nelson-faria-e-sandro-haick-em-talking-standarts-volumes-1-e-2-24-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/24-11-nelson-faria-e-sandro-haick-em-talking-standarts-volumes-1-e-2/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-95c6b86d934c",
+   "titulo": "DE VENTO EM POPA – AQUARELAS BRASILEIRAS – CORES DO CHORO",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-25T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/de-vento-em-popa-aquarelas-brasileiras-cores-do-choro-25-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/25-11-de-vento-em-popa-aquarelas-brasileiras-cores-do-choro/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-408c081dcd35",
+   "titulo": "PABLO FAGUNDES e DOUGLAS LORA",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-27T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/pablo-fagundes-e-douglas-lora-27-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/27-11-pablo-fagundes-e-douglas-lora/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-6f40a7a06659",
+   "titulo": "Feira Motim",
+   "categoria": "outro",
+   "status": "confirmado",
+   "inicio": "2026-11-28T11:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "sesi-lab",
+   "local": "Sesi Lab",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Sesi Lab",
+     "url": "https://sesilab.com.br/programacao?evento=5053974"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-52da7427e4ef",
+   "titulo": "A GUITARRA MAGNÉTICA DE HAROLDINHO MATTOS",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-28T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/a-guitarra-magnetica-de-haroldinho-mattos-28-de-novembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/28-11-copie-e-compartilhe-o-link-deste-evento-a-guitarra-magnetica-de-haroldinho-mattos/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-2480acaa3cf5",
+   "titulo": "Feira Motim",
+   "categoria": "outro",
+   "status": "confirmado",
+   "inicio": "2026-11-29T11:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "sesi-lab",
+   "local": "Sesi Lab",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Sesi Lab",
+     "url": "https://sesilab.com.br/programacao?evento=5053976"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-f100ba98a1c9",
+   "titulo": "SHOW BENEFICENTE com NEBO – “O MELHOR DOS ANOS 70 e 80”",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-12-01T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/show-beneficente-com-nebo-o-melhor-dos-anos-70-e-80-01-de-dezembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/01-12-show-beneficente-com-nebo-o-melhor-dos-anos-70-e-80/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-b1d318239de9",
+   "titulo": "CAMINHOS CRUZADOS – TRIBUTO A TOM JOBIM e NEWTON MENDONÇA",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-12-02T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/caminhos-cruzados-tributo-a-tom-jobim-e-newton-mendonca-02-de-dezembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/02-12-caminhos-cruzados-tributo-a-tom-jobim-e-newton-mendonca/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-875fde7a5152",
+   "titulo": "JAMBEIRO SOLIDÁRIO com RENATA JAMBEIRO",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-12-15T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/jambeiro-solidario-com-renata-jambeiro-15-de-dezembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/15-12-jambeiro-solidario-com-renata-jambeiro/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-73cc55a5b5b9",
+   "titulo": "BETO DOURAH – BETO CANTA BETO",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-12-17T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/beto-dourah-beto-canta-beto-17-de-dezembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/17-12-beto-dourah-beto-canta-beto/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-15c59a05532b",
+   "titulo": "BALADA S/A",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-12-18T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/balada-s-a-18-de-dezembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/18-12-balada-s-a/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-f8be573e5091",
+   "titulo": "MILTON GUEDES – PRA DANÇAR",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-12-19T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "clube-do-choro",
+   "local": "Clube do Choro de Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://www.bilheteriadigital.com/milton-guedes-pra-dancar-19-de-dezembro",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Clube do Choro",
+     "url": "https://clubedochoro.com.br/19-12-milton-guedes-pra-dancar/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "fomento-964c30fc1902",
+   "titulo": "7º Festival Brasileiro de Teatro de Terreiro",
+   "categoria": "festival",
+   "status": "previsto_fomento",
+   "inicio": null,
+   "fim": null,
+   "datas_extra": [],
+   "local_id": null,
+   "local": null,
+   "ras": [],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "dodf_cultura",
+     "url": "https://dodf.df.gov.br/dodf/materia/visualizar?co_data=639065&p=extrato-do-termo-de-ajuste-n-6052026"
+    }
+   ],
+   "historico": [
+    {
+     "status": "previsto_fomento",
+     "em": "2026-11-02T20:51:59.556537-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T20:51:59.556537-03:00",
+   "ultima_atualizacao": "2026-11-02T20:51:59.556537-03:00"
+  },
+  {
+   "id": "evento-2eba39b97b6d",
+   "titulo": "Amor em Rosa",
+   "categoria": "teatro",
+   "status": "ingressos_a_venda",
+   "inicio": null,
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "ccbb-brasilia",
+   "local": "Centro Cultural Banco do Brasil Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": false,
+   "preco_min": 15.0,
+   "preco_max": 30.0,
+   "link_ingresso": "https://ingressosccbb.com.br/cenicas-amor-em-rosa__3990",
+   "classificacao_etaria": "não recomendado para menores de 16 anos",
+   "acessibilidade": [
+    "Intérprete em Libras",
+    "audiodescrição"
+   ],
+   "fontes": [
+    {
+     "nome": "CCBB Brasília",
+     "url": "https://ccbb.com.br/brasilia/programacao/amor-em-rosa/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "fomento-eaf76317299e",
+   "titulo": "FESTIVAL CANTO A CANTO",
+   "categoria": "festival",
+   "status": "previsto_fomento",
+   "inicio": null,
+   "fim": null,
+   "datas_extra": [],
+   "local_id": null,
+   "local": null,
+   "ras": [],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "dodf_cultura",
+     "url": "https://dodf.df.gov.br/dodf/materia/visualizar?co_data=638786&p=termo-de-apostilamento-n-01-ao-termo-de-execucao-cultural-n-1162025"
+    }
+   ],
+   "historico": [
+    {
+     "status": "previsto_fomento",
+     "em": "2026-11-02T20:51:59.556537-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T20:51:59.556537-03:00",
+   "ultima_atualizacao": "2026-11-02T20:51:59.556537-03:00"
+  },
+  {
+   "id": "evento-a4269e6ff80f",
+   "titulo": "Galeno - O Mistério do Simples",
+   "categoria": "exposicao",
+   "status": "anunciado",
+   "inicio": null,
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "caixa-cultural-brasilia",
+   "local": "Caixa Cultural Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "Caixa Cultural Brasília",
+     "url": "https://www.caixacultural.gov.br/Paginas/Programacao.aspx?idEvento=3615"
+    }
+   ],
+   "historico": [
+    {
+     "status": "anunciado",
+     "em": "2026-11-02T23:23:01.742908-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
+   "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-5c6e4f057a3b",
+   "titulo": "GIBI",
+   "categoria": "infantil",
+   "status": "anunciado",
+   "inicio": null,
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "ccbb-brasilia",
+   "local": "Centro Cultural Banco do Brasil Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": false,
+   "preco_min": 15.0,
+   "preco_max": 30.0,
+   "link_ingresso": null,
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [
+    "Libras",
+    "audiodescrição"
+   ],
+   "fontes": [
+    {
+     "nome": "CCBB Brasília",
+     "url": "https://ccbb.com.br/brasilia/programacao/15-anos-lamira/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "anunciado",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-f9d20690fb00",
+   "titulo": "Mostra CCBB Brasília – 25 Anos: Arte Viva, Memória Presente",
+   "categoria": "exposicao",
+   "status": "ingressos_a_venda",
+   "inicio": null,
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "ccbb-brasilia",
+   "local": "Centro Cultural Banco do Brasil Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://ingressosccbb.com.br/exposicao-mostra-ccbb-brasilia-25-anos-arte-viva-memoria-presente__3205",
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "CCBB Brasília",
+     "url": "https://ccbb.com.br/brasilia/programacao/mostra-ccbb-brasilia-25-anos-arte-viva-memoria-presente/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "fomento-6f1bb3b9db0b",
+   "titulo": "Não me Kali",
+   "categoria": "outro",
+   "status": "previsto_fomento",
+   "inicio": null,
+   "fim": null,
+   "datas_extra": [],
+   "local_id": null,
+   "local": null,
+   "ras": [],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "dodf_cultura",
+     "url": "https://dodf.df.gov.br/dodf/materia/visualizar?co_data=639064&p=extrato-do-termo-de-ajuste-n-4602026"
+    }
+   ],
+   "historico": [
+    {
+     "status": "previsto_fomento",
+     "em": "2026-11-02T20:51:59.556537-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T20:51:59.556537-03:00",
+   "ultima_atualizacao": "2026-11-02T20:51:59.556537-03:00"
+  },
+  {
+   "id": "fomento-6bb6cf72af65",
+   "titulo": "RITMOS VALORIZADOS",
+   "categoria": "outro",
+   "status": "previsto_fomento",
+   "inicio": null,
+   "fim": null,
+   "datas_extra": [],
+   "local_id": null,
+   "local": null,
+   "ras": [
+    "Gama",
+    "São Sebastião",
+    "Sobradinho"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "dodf_cultura",
+     "url": "https://dodf.df.gov.br/dodf/materia/visualizar?co_data=639349&p=termo-de-fomento-n-mrosc-n-542026"
+    }
+   ],
+   "historico": [
+    {
+     "status": "previsto_fomento",
+     "em": "2026-11-02T20:51:59.556537-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T20:51:59.556537-03:00",
+   "ultima_atualizacao": "2026-11-02T20:51:59.556537-03:00"
+  },
+  {
+   "id": "evento-e1c99887dd33",
+   "titulo": "Rolê com LIBRAS",
+   "categoria": "outro",
+   "status": "ingressos_a_venda",
+   "inicio": null,
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "ccbb-brasilia",
+   "local": "Centro Cultural Banco do Brasil Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://ingressosccbb.com.br/programa-educativo-role-cultural-novembro__4180",
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [
+    "Libras"
+   ],
+   "fontes": [
+    {
+     "nome": "CCBB Brasília",
+     "url": "https://ccbb.com.br/brasilia/programacao/role-cultural-educativo-ccbb/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-e3595330bbf0",
+   "titulo": "Rolê Cultural Educativo CCBB",
+   "categoria": "outro",
+   "status": "ingressos_a_venda",
+   "inicio": null,
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "ccbb-brasilia",
+   "local": "Centro Cultural Banco do Brasil Brasília",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://ingressosccbb.com.br/programa-educativo-role-cultural-novembro__4180",
+   "classificacao_etaria": "Livre",
+   "acessibilidade": [],
+   "fontes": [
+    {
+     "nome": "CCBB Brasília",
+     "url": "https://ccbb.com.br/brasilia/programacao/role-cultural-educativo-ccbb/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-02T22:07:34.177986-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
+   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  }
+ ],
+ "locais": [
+  {
+   "id": "ccbb-brasilia",
+   "nome": "Centro Cultural Banco do Brasil Brasília",
+   "ra": "Plano Piloto",
+   "endereco": ""
+  },
+  {
+   "id": "caixa-cultural-brasilia",
+   "nome": "Caixa Cultural Brasília",
+   "ra": "Plano Piloto",
+   "endereco": ""
+  },
+  {
+   "id": "sesi-lab",
+   "nome": "Sesi Lab",
+   "ra": "Plano Piloto",
+   "endereco": ""
+  },
+  {
+   "id": "clube-do-choro",
+   "nome": "Clube do Choro de Brasília",
+   "ra": "Plano Piloto",
+   "endereco": ""
+  },
+  {
+   "id": "cine-brasilia",
+   "nome": "Cine Brasília",
+   "ra": "Plano Piloto",
+   "endereco": "EQS 106/107, Asa Sul"
+  },
+  {
+   "id": "sesc-gama",
+   "nome": "Sesc Gama",
+   "ra": "Gama",
+   "endereco": ""
+  },
+  {
+   "id": "memorial-povos-indigenas",
+   "nome": "Memorial dos Povos Indígenas",
+   "ra": "Plano Piloto",
+   "endereco": "Eixo Monumental Oeste, Praça do Buriti"
+  }
+ ]
+}
