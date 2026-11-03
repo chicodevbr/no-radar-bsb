@@ -126,3 +126,14 @@ a:hover { color: var(--nr-limao); }
 .evento-resumo { margin: 0; max-width: 60ch; font-size: 19px; }
 .evento-aviso { margin: 6px 0 var(--espaco-4); color: var(--nr-lavanda); font-size: 13px; letter-spacing: 1px; text-transform: uppercase; }
 .resumo { margin: 4px 0 0; font-size: 15px; max-width: 62ch; }
+
+/* Respiro da página de evento: entre os botões e a fonte, e antes do rodapé */
+.evento { padding-bottom: 72px; }
+.evento .botoes { margin: var(--espaco-4) 0 0; }
+.evento-fonte { margin-top: 56px; padding-top: var(--espaco-3); border-top: 2px solid var(--nr-ameixa); line-height: 1.6; }
+.evento + .rodape { margin-top: 0; }
+@media (max-width: 719px) {
+  .evento { padding-bottom: 88px; }
+  .evento-fonte { margin-top: 64px; }
+  .rodape { padding: 40px 0 64px; }
+}
