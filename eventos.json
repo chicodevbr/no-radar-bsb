@@ -1,10 +1,10 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-03T21:13:58-03:00",
+ "gerado_em": "2026-11-03T22:12:26-03:00",
  "territorio": "Distrito Federal",
  "aviso": "Agenda coletada de fontes públicas (DODF, sites dos equipamentos culturais, bilheterias) pela Pheme. Datas, preços e locais podem mudar: confira sempre na fonte do evento.",
  "licenca": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
- "total": 68,
+ "total": 96,
  "eventos": [
   {
    "id": "evento-6352080a6bef",
@@ -295,6 +295,41 @@
    "ultima_atualizacao": "2026-11-02T22:14:16.841217-03:00"
   },
   {
+   "id": "evento-9eca20284143",
+   "titulo": "Infinu recebe Nova Frequência",
+   "categoria": "musica",
+   "status": "confirmado",
+   "inicio": "2026-11-03T20:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://www.instagram.com/p/DfNODkSBEY4"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
    "id": "evento-6ff9ec0ae729",
    "titulo": "CORAL HABEAS CANTUS – ENTRE AMIGOS – PART.: CAROL CARNEIRO",
    "categoria": "musica",
@@ -363,6 +398,41 @@
    ],
    "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
    "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-5fbdca12d688",
+   "titulo": "Isso É Jazz ?! Ricelly Lopez Toca Jeff Beck",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-04T20:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/events/isso-e-jazz-55",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/events/isso-e-jazz-55"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
   },
   {
    "id": "evento-9b58a5e316e9",
@@ -472,6 +542,41 @@
    "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
   },
   {
+   "id": "evento-70cade7d067e",
+   "titulo": "Infinu recebe Dillo",
+   "categoria": "musica",
+   "status": "confirmado",
+   "inicio": "2026-11-05T19:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://www.instagram.com/reel/DfFyW-3hyQI"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
    "id": "evento-9e7dd5079462",
    "titulo": "GAFIEIRA PINDORAMA",
    "categoria": "musica",
@@ -505,6 +610,41 @@
    ],
    "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
    "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-db457c6df1f5",
+   "titulo": "Sóxodó Apresenta Fuá Da Paulinha",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-06T19:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/events/infinu-recebe-soxodo-41",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/events/infinu-recebe-soxodo-41"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
   },
   {
    "id": "evento-0b76cbc372f3",
@@ -647,6 +787,41 @@
    "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
   },
   {
+   "id": "evento-72ac44d8e291",
+   "titulo": "Infinu recebe Selvagens À Procura De Lei",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-07T18:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/events/selvagensaprocuradaleiembrasilia-2",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/events/selvagensaprocuradaleiembrasilia-2"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
    "id": "evento-8100c8434e82",
    "titulo": "Simplesmente eu, Clarice Lispector",
    "categoria": "teatro",
@@ -680,6 +855,41 @@
    ],
    "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
    "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-91ae9a594bb9",
+   "titulo": "Infinu Recebe Fernando Catatau + Mateus Fazeno Rock",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-07T20:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/events/fernandocatataumateusfazenorock",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/events/fernandocatataumateusfazenorock"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
   },
   {
    "id": "evento-184280b7bea1",
@@ -750,6 +960,76 @@
    ],
    "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
    "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-3a2e6dcc139a",
+   "titulo": "Bsb Punk Fest - Sugar Kane, Zander E Jonabug",
+   "categoria": "festival",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-08T16:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/pt-br/festivals/bsb-punk-fest-sugar-kane-zander-e-jonabug",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/pt-br/festivals/bsb-punk-fest-sugar-kane-zander-e-jonabug"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
+   "id": "evento-1deff18e2499",
+   "titulo": "Tranquilo Apresenta Badi Assad",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-08T20:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/pt-br/events/tranquilobrasilia-2026-11-08",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/pt-br/events/tranquilobrasilia-2026-11-08"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
   },
   {
    "id": "evento-92357b0755f9",
@@ -823,6 +1103,41 @@
    ],
    "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
    "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-ea900ac89e20",
+   "titulo": "Isso É Jazz ?! Marlene Souza Lima",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-11T20:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/events/isso-e-jazz-57",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/events/isso-e-jazz-57"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
   },
   {
    "id": "evento-1d6a019d6752",
@@ -928,6 +1243,41 @@
    ],
    "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
    "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-41a2f83c5536",
+   "titulo": "Tranquilo Apresenta Lamparina",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-12T19:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/pt-br/events/tranquilobrasilia-2026-11-12",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/pt-br/events/tranquilobrasilia-2026-11-12"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
   },
   {
    "id": "evento-cdc37b7f237a",
@@ -1070,6 +1420,111 @@
    "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
   },
   {
+   "id": "evento-9cbfaa4216de",
+   "titulo": "Infinu recebe Bsb Punk Fest - Bella E O Olmo Da Bruxa",
+   "categoria": "festival",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-14T16:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/pt-br/events/bella-e-o-olmo-da-bruxa-em-brasilia",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/pt-br/events/bella-e-o-olmo-da-bruxa-em-brasilia"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
+   "id": "evento-8453e4cc6f9e",
+   "titulo": "Infinu recebe Bsb Punk Fest - Bullet Bane",
+   "categoria": "festival",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-14T20:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/pt-br/festivals/bsb-punk-fest-bullet-bane",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/pt-br/festivals/bsb-punk-fest-bullet-bane"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
+   "id": "evento-bc4bb9ce2d83",
+   "titulo": "Infinu recebe Papangu",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-15T21:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/events/papanguembsb-2",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/events/papanguembsb-2"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
    "id": "evento-35c4f8e4e40d",
    "titulo": "JINGLE BLUES — BLUES RAIZ PARA VIVER E SENTIR",
    "categoria": "musica",
@@ -1140,6 +1595,41 @@
    "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
   },
   {
+   "id": "evento-c63bce9b97a0",
+   "titulo": "Isso É Jazz ?! Jimi Oliver (Bh) Toca Clube Da Esquina",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-18T20:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/en/events/isso-e-jazz-58",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/en/events/isso-e-jazz-58"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
    "id": "evento-f3f08d892c7b",
    "titulo": "LAIRSON E AS MENINAS — 6ª EDIÇÃO",
    "categoria": "musica",
@@ -1208,6 +1698,41 @@
    ],
    "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
    "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-402c1694b9cf",
+   "titulo": "Tranquilo Apresenta Joyce Alane",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-19T19:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/pt-br/events/tranquilobrasilia-2026-11-19",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/pt-br/events/tranquilobrasilia-2026-11-19"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
   },
   {
    "id": "evento-e7f5d4e41508",
@@ -1560,6 +2085,41 @@
    "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
   },
   {
+   "id": "evento-0bb498b13084",
+   "titulo": "Infinu recebe Bsb Punk Fest - Ócio",
+   "categoria": "festival",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-21T16:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/pt-br/festivals/bsb-punk-fest-ocio",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/pt-br/festivals/bsb-punk-fest-ocio"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
    "id": "evento-d6f991c3838e",
    "titulo": "DANI BLACK – Turnê Uma Cidade Chamada Eu Mesmo – O Maior Coral da Cidade",
    "categoria": "musica",
@@ -1595,6 +2155,41 @@
    "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
   },
   {
+   "id": "evento-5ce8b61cef6c",
+   "titulo": "Infinu recebe Miseravel Cultura Fest",
+   "categoria": "festival",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-21T21:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/en/events/miseravelculturafestcomlamento",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/en/events/miseravelculturafestcomlamento"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
    "id": "evento-6dd760094f11",
    "titulo": "Ação Cultural SESI 80 anos - Apresentação com Núcleo Oficial NEOJIBA – DR/Bahia",
    "categoria": "musica",
@@ -1628,6 +2223,41 @@
    ],
    "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
    "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-534178239398",
+   "titulo": "Infinu Recebe Luizga",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-24T20:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/pt-br/events/luizgaembsb",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/pt-br/events/luizgaembsb"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
   },
   {
    "id": "evento-50495ad2bf21",
@@ -1700,6 +2330,41 @@
    "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
   },
   {
+   "id": "evento-154be196aea3",
+   "titulo": "Infinu Recebe Vanguart Em Brasília",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-26T20:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/pt-br/events/vanguart-em-brasilia",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/pt-br/events/vanguart-em-brasilia"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
    "id": "evento-408c081dcd35",
    "titulo": "PABLO FAGUNDES e DOUGLAS LORA",
    "categoria": "musica",
@@ -1768,6 +2433,41 @@
    ],
    "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
    "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-53993f03d7ec",
+   "titulo": "Motal E Infinu Recebem Yma: Sentimental Palace",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-28T20:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/pt-br/events/ymaembsb",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/pt-br/events/ymaembsb"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
   },
   {
    "id": "evento-52da7427e4ef",
@@ -1840,6 +2540,41 @@
    "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
   },
   {
+   "id": "evento-1f10f320b75d",
+   "titulo": "Infinu recebe Bsb Punk Fest - Rancore",
+   "categoria": "festival",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-29T16:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/pt-br/festivals/bsb-punk-fest-rancore",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/pt-br/festivals/bsb-punk-fest-rancore"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
    "id": "evento-f100ba98a1c9",
    "titulo": "SHOW BENEFICENTE com NEBO – “O MELHOR DOS ANOS 70 e 80”",
    "categoria": "musica",
@@ -1908,6 +2643,251 @@
    ],
    "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
    "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-58a518a25b4d",
+   "titulo": "Tranquilo Apresenta Jonatas Belgrande",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-12-03T19:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/pt-br/events/tranquilobrasilia-2026-12-03",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/pt-br/events/tranquilobrasilia-2026-12-03"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
+   "id": "evento-7c446c0ad282",
+   "titulo": "Infinu Apresenta Daparte (Mg)",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-12-05T17:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/events/daparteembsb",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/events/daparteembsb"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
+   "id": "evento-17684b74d85f",
+   "titulo": "Infinu Recebe Mombojó",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-12-05T20:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/events/infinurecebemombojo",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/events/infinurecebemombojo"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
+   "id": "evento-5116ba06f9e0",
+   "titulo": "Bastardos Da Noite 3a Edição: Blades Of Steel",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-12-06T16:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/events/bladesofsteel",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/events/bladesofsteel"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
+   "id": "evento-3e6e32393bc1",
+   "titulo": "Tom Ribeira Em Brasília: Lançamento Do Ep Vovóvovô",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-12-06T21:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/events/tomribeiraembsb-3",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/events/tomribeiraembsb-3"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
+   "id": "evento-3cc9e531a6e6",
+   "titulo": "Tranquilo Apresenta Yoún",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-12-10T19:00:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/pt-br/events/tranquilobrasilia-2026-12-10",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/pt-br/events/tranquilobrasilia-2026-12-10"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
+   "id": "evento-c698e29f3c9a",
+   "titulo": "Infinu Recebe Os Replicantes",
+   "categoria": "musica",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-12-12T20:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": "infinu",
+   "local": "Infinu",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/events/osreplicantes",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": null,
+   "fontes": [
+    {
+     "nome": "Infinu",
+     "url": "https://shotgun.live/events/osreplicantes"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-03T22:11:57.128734-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
+   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
   },
   {
    "id": "evento-875fde7a5152",
@@ -2446,6 +3426,12 @@
    "nome": "Memorial dos Povos Indígenas",
    "ra": "Plano Piloto",
    "endereco": "Eixo Monumental Oeste, Praça do Buriti"
+  },
+  {
+   "id": "infinu",
+   "nome": "Infinu",
+   "ra": "Plano Piloto",
+   "endereco": ""
   }
  ]
 }
