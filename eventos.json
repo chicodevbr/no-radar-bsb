@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-04T16:48:10-03:00",
+ "gerado_em": "2026-11-04T18:16:06-03:00",
  "territorio": "Distrito Federal",
  "aviso": "Agenda coletada de fontes públicas (DODF, sites dos equipamentos culturais, bilheterias) pela Pheme. Datas, preços e locais podem mudar: confira sempre na fonte do evento.",
  "licenca": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
@@ -542,15 +542,15 @@
    "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
   },
   {
-   "id": "evento-58c6ccfab91e",
+   "id": "evento-41ea7a0851f4",
    "titulo": "Lançamento do livro \"Poder e Preconceito\", de Martin Carnoy e Michael França",
    "categoria": "literatura",
    "status": "confirmado",
    "inicio": "2026-11-06T18:30:00-03:00",
    "fim": null,
    "datas_extra": [],
-   "local_id": null,
-   "local": "Livraria Circulares (SHCGN CRN 714/715, Bloco H, Loja 9, Asa Norte)",
+   "local_id": "livraria-circulares",
+   "local": "Livraria Circulares",
    "ras": [
     "Plano Piloto"
    ],
@@ -570,11 +570,11 @@
    "historico": [
     {
      "status": "confirmado",
-     "em": "2026-11-04T16:47:53.035441-03:00"
+     "em": "2026-11-04T18:15:47.484648-03:00"
     }
    ],
-   "primeira_deteccao": "2026-11-04T16:47:53.035441-03:00",
-   "ultima_atualizacao": "2026-11-04T16:47:53.035441-03:00"
+   "primeira_deteccao": "2026-11-04T18:15:47.484648-03:00",
+   "ultima_atualizacao": "2026-11-04T18:15:47.484648-03:00"
   },
   {
    "id": "evento-db457c6df1f5",
@@ -3438,6 +3438,12 @@
    "nome": "Infinu",
    "ra": "Plano Piloto",
    "endereco": ""
+  },
+  {
+   "id": "livraria-circulares",
+   "nome": "Livraria Circulares",
+   "ra": "Plano Piloto",
+   "endereco": "SHCGN CRN 714/715, Bloco H, Loja 9, Asa Norte"
   }
  ]
 }
