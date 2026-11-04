@@ -110,7 +110,7 @@ function passa(e, s, f) {
   }
   if (f.periodo !== "tudo") {
     const limite = f.periodo === "hoje" ? hoje : somaDias(hoje, 6);
-    if (s.tipo === "sem_data") return false;
+    if (s.tipo === "sem_data") return true; // "Fique de olho" aparece em qualquer período
     if (s.tipo === "dia" && (s.dia > limite && !(s.ate && s.dia <= limite))) return false;
   }
   return true;
@@ -141,6 +141,7 @@ function card(e, s) {
   };
   if (dia(e.primeira_deteccao) >= somaDias(hoje, -DIAS_NOVO + 1)) etiqueta("Novo", "novo");
   etiqueta(CATEGORIAS[e.categoria] || e.categoria);
+  if (e.status === "previsto_fomento") etiqueta("Saiu no Diário");
   if (e.status === "cancelado") etiqueta("Cancelado", "alerta");
   if (e.status === "adiado") etiqueta("Adiado", "alerta");
   if (e.status === "esgotado") etiqueta("Esgotado", "alerta");
@@ -241,8 +242,10 @@ function desenhar() {
     agenda.append(grupo("Em <b>cartaz</b>", "Exposições, mostras e temporadas que já começaram.", cartaz));
   }
   if (semData.length) {
-    semData.sort(([a], [b]) => a.titulo.localeCompare(b.titulo, "pt"));
-    agenda.append(grupo("Vem <b>aí</b>", "Projetos aprovados no Diário Oficial do DF, ainda sem data e local anunciados.", semData));
+    // os projetos do Diário primeiro, depois o que já foi anunciado sem data
+    const doDiario = (e) => (e.status === "previsto_fomento" ? 0 : 1);
+    semData.sort(([a], [b]) => doDiario(a) - doDiario(b) || a.titulo.localeCompare(b.titulo, "pt"));
+    agenda.append(grupo("Fique de <b>olho</b>", "Projetos aprovados no Diário Oficial do DF e eventos já anunciados, ainda sem data marcada.", semData));
   }
 
   const n = itens.length;
