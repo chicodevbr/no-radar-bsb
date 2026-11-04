@@ -1,10 +1,10 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-04T13:39:18-03:00",
+ "gerado_em": "2026-11-04T16:10:20-03:00",
  "territorio": "Distrito Federal",
  "aviso": "Agenda coletada de fontes públicas (DODF, sites dos equipamentos culturais, bilheterias) pela Pheme. Datas, preços e locais podem mudar: confira sempre na fonte do evento.",
  "licenca": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
- "total": 95,
+ "total": 96,
  "eventos": [
   {
    "id": "evento-6352080a6bef",
@@ -540,6 +540,41 @@
    ],
    "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
    "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-58c6ccfab91e",
+   "titulo": "Lançamento do livro \"Poder e Preconceito\", de Martin Carnoy e Michael França",
+   "categoria": "literatura",
+   "status": "confirmado",
+   "inicio": "2026-11-06T18:30:00-03:00",
+   "fim": null,
+   "datas_extra": [],
+   "local_id": null,
+   "local": "Livraria Circulares (SHCGN CRN 714/715, Bloco H, Loja 9, Asa Norte)",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": "Lançamento do livro sobre o Estado e a discriminação racial no Brasil, nos Estados Unidos e na Nova Escócia, com os autores Martin Carnoy (Stanford) e Michael França (NERI/Insper). Editora Jandaíra.",
+   "fontes": [
+    {
+     "nome": "divulgação",
+     "url": "https://www.instagram.com/circulares.livros/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-04T16:09:54.915105-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-04T16:09:54.915105-03:00",
+   "ultima_atualizacao": "2026-11-04T16:09:54.915105-03:00"
   },
   {
    "id": "evento-db457c6df1f5",
