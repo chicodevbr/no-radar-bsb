@@ -1,10 +1,10 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-03T22:12:26-03:00",
+ "gerado_em": "2026-11-04T13:39:18-03:00",
  "territorio": "Distrito Federal",
  "aviso": "Agenda coletada de fontes públicas (DODF, sites dos equipamentos culturais, bilheterias) pela Pheme. Datas, preços e locais podem mudar: confira sempre na fonte do evento.",
  "licenca": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
- "total": 96,
+ "total": 95,
  "eventos": [
   {
    "id": "evento-6352080a6bef",
@@ -293,76 +293,6 @@
    ],
    "primeira_deteccao": "2026-11-02T22:14:16.841217-03:00",
    "ultima_atualizacao": "2026-11-02T22:14:16.841217-03:00"
-  },
-  {
-   "id": "evento-9eca20284143",
-   "titulo": "Infinu recebe Nova Frequência",
-   "categoria": "musica",
-   "status": "confirmado",
-   "inicio": "2026-11-03T20:00:00-03:00",
-   "fim": null,
-   "datas_extra": [],
-   "local_id": "infinu",
-   "local": "Infinu",
-   "ras": [
-    "Plano Piloto"
-   ],
-   "gratuito": null,
-   "preco_min": null,
-   "preco_max": null,
-   "link_ingresso": null,
-   "classificacao_etaria": null,
-   "acessibilidade": [],
-   "resumo": null,
-   "fontes": [
-    {
-     "nome": "Infinu",
-     "url": "https://www.instagram.com/p/DfNODkSBEY4"
-    }
-   ],
-   "historico": [
-    {
-     "status": "confirmado",
-     "em": "2026-11-03T22:11:57.128734-03:00"
-    }
-   ],
-   "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
-   "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
-  },
-  {
-   "id": "evento-6ff9ec0ae729",
-   "titulo": "CORAL HABEAS CANTUS – ENTRE AMIGOS – PART.: CAROL CARNEIRO",
-   "categoria": "musica",
-   "status": "ingressos_a_venda",
-   "inicio": "2026-11-03T20:30:00-03:00",
-   "fim": null,
-   "datas_extra": [],
-   "local_id": "clube-do-choro",
-   "local": "Clube do Choro de Brasília",
-   "ras": [
-    "Plano Piloto"
-   ],
-   "gratuito": null,
-   "preco_min": null,
-   "preco_max": null,
-   "link_ingresso": "https://www.bilheteriadigital.com/coral-habeas-cantus-entre-amigos-part-carol-carneiro-03-de-novembro",
-   "classificacao_etaria": null,
-   "acessibilidade": [],
-   "resumo": "Espetáculo do Coral Habeas Cantus com participação de Carol Carneiro.",
-   "fontes": [
-    {
-     "nome": "Clube do Choro",
-     "url": "https://clubedochoro.com.br/03-11-coral-habeas-cantus-entre-amigos-part-carol-carneiro/"
-    }
-   ],
-   "historico": [
-    {
-     "status": "ingressos_a_venda",
-     "em": "2026-11-02T22:07:34.177986-03:00"
-    }
-   ],
-   "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
-   "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
   },
   {
    "id": "evento-597b9cb38b7c",
@@ -1243,6 +1173,41 @@
    ],
    "primeira_deteccao": "2026-11-02T23:23:01.742908-03:00",
    "ultima_atualizacao": "2026-11-02T23:23:01.742908-03:00"
+  },
+  {
+   "id": "evento-c441cb15de7f",
+   "titulo": "Ocupação First Body Programme – 10 Anos",
+   "categoria": "festival",
+   "status": "confirmado",
+   "inicio": "2026-11-12T19:00:00-03:00",
+   "fim": "2026-11-21T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": "espaco-renato-russo",
+   "local": "Espaço Cultural Renato Russo",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": false,
+   "preco_min": 15.0,
+   "preco_max": 30.0,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": "Dez anos do First Body Programme, com espetáculos de Colômbia, França, Itália e República Dominicana, trabalhos de coletivos do DF, exposição, filmes e demonstrações de trabalho gratuitos.",
+   "fontes": [
+    {
+     "nome": "divulgação",
+     "url": "https://glaunacapital.com/2026/11/03/um-mes-dedicado-as-artes-da-cena-em-brasilia-2/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-04T13:38:53.482678-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-04T13:38:53.482678-03:00",
+   "ultima_atualizacao": "2026-11-04T13:38:53.482678-03:00"
   },
   {
    "id": "evento-41a2f83c5536",
@@ -3414,6 +3379,12 @@
    "nome": "Cine Brasília",
    "ra": "Plano Piloto",
    "endereco": "EQS 106/107, Asa Sul"
+  },
+  {
+   "id": "espaco-renato-russo",
+   "nome": "Espaço Cultural Renato Russo",
+   "ra": "Plano Piloto",
+   "endereco": "CRS 508, W3 Sul, Bloco A, loja 72"
   },
   {
    "id": "sesc-gama",
