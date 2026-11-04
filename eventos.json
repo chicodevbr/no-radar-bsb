@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-04T16:47:18-03:00",
+ "gerado_em": "2026-11-04T16:48:10-03:00",
  "territorio": "Distrito Federal",
  "aviso": "Agenda coletada de fontes públicas (DODF, sites dos equipamentos culturais, bilheterias) pela Pheme. Datas, preços e locais podem mudar: confira sempre na fonte do evento.",
  "licenca": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
@@ -570,11 +570,11 @@
    "historico": [
     {
      "status": "confirmado",
-     "em": "2026-11-04T16:47:01.160000-03:00"
+     "em": "2026-11-04T16:47:53.035441-03:00"
     }
    ],
-   "primeira_deteccao": "2026-11-04T16:47:01.160000-03:00",
-   "ultima_atualizacao": "2026-11-04T16:47:01.160000-03:00"
+   "primeira_deteccao": "2026-11-04T16:47:53.035441-03:00",
+   "ultima_atualizacao": "2026-11-04T16:47:53.035441-03:00"
   },
   {
    "id": "evento-db457c6df1f5",
