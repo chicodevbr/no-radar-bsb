@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-04T22:49:42-03:00",
+ "gerado_em": "2026-11-04T22:51:56-03:00",
  "territorio": "Distrito Federal",
  "aviso": "Agenda coletada de fontes públicas (DODF, sites dos equipamentos culturais, bilheterias) pela Pheme. Datas, preços e locais podem mudar: confira sempre na fonte do evento.",
  "licenca": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
@@ -472,15 +472,15 @@
    "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
   },
   {
-   "id": "evento-22b14f8cef63",
+   "id": "evento-8abb79e9ee81",
    "titulo": "Festival Bocadim 2026 – 11ª edição",
    "categoria": "festival",
    "status": "ingressos_a_venda",
    "inicio": "2026-11-05T18:00:00-03:00",
    "fim": "2026-11-07T00:00:00-03:00",
    "datas_extra": [],
-   "local_id": null,
-   "local": "Arena do CONIC (SDS, Setor de Diversões Sul)",
+   "local_id": "conic",
+   "local": "CONIC",
    "ras": [
     "Plano Piloto"
    ],
@@ -500,11 +500,11 @@
    "historico": [
     {
      "status": "ingressos_a_venda",
-     "em": "2026-11-04T22:49:21.218164-03:00"
+     "em": "2026-11-04T22:51:37.024558-03:00"
     }
    ],
-   "primeira_deteccao": "2026-11-04T22:49:21.218164-03:00",
-   "ultima_atualizacao": "2026-11-04T22:49:21.218164-03:00"
+   "primeira_deteccao": "2026-11-04T22:51:37.024558-03:00",
+   "ultima_atualizacao": "2026-11-04T22:51:37.024558-03:00"
   },
   {
    "id": "evento-70cade7d067e",
@@ -3512,6 +3512,12 @@
    "nome": "Livraria Circulares",
    "ra": "Plano Piloto",
    "endereco": "SHCGN CRN 714/715, Bloco H, Loja 9, Asa Norte"
+  },
+  {
+   "id": "conic",
+   "nome": "CONIC",
+   "ra": "Plano Piloto",
+   "endereco": "Setor de Diversões Sul (SDS)"
   }
  ]
 }
