@@ -1,10 +1,10 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-04T18:16:06-03:00",
+ "gerado_em": "2026-11-04T22:08:29-03:00",
  "territorio": "Distrito Federal",
  "aviso": "Agenda coletada de fontes públicas (DODF, sites dos equipamentos culturais, bilheterias) pela Pheme. Datas, preços e locais podem mudar: confira sempre na fonte do evento.",
  "licenca": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
- "total": 96,
+ "total": 97,
  "eventos": [
   {
    "id": "evento-6352080a6bef",
@@ -2363,6 +2363,39 @@
    ],
    "primeira_deteccao": "2026-11-03T22:11:57.128734-03:00",
    "ultima_atualizacao": "2026-11-03T22:11:57.128734-03:00"
+  },
+  {
+   "id": "evento-a19ed335c1da",
+   "titulo": "Voa Festival 2026",
+   "categoria": "festival",
+   "status": "confirmado",
+   "inicio": "2026-11-27T00:00:00-03:00",
+   "fim": "2026-11-29T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": null,
+   "local": "Brasília (local a definir)",
+   "ras": [],
+   "gratuito": null,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": "Quarta edição do festival de música, com Duda Beat como primeira atração confirmada. Local, programação completa e ingressos ainda não foram divulgados.",
+   "fontes": [
+    {
+     "nome": "divulgação",
+     "url": "https://mapadosfestivais.com.br/eventos/voa-festival-2026/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-04T22:08:11.960647-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-04T22:08:11.960647-03:00",
+   "ultima_atualizacao": "2026-11-04T22:08:11.960647-03:00"
   },
   {
    "id": "evento-408c081dcd35",
