@@ -62,6 +62,7 @@ let dados = null;
 const form = document.getElementById("filtros");
 const agenda = document.getElementById("agenda");
 const contagem = document.getElementById("contagem");
+const atalhos = document.getElementById("atalhos");
 const tpl = document.getElementById("tpl-card");
 
 function preencherOpcoes(eventos) {
@@ -85,7 +86,8 @@ function filtrosNaUrl(f) {
   for (const nome of ["q", "categoria", "ra"]) if (f[nome]) p.set(nome, f[nome]);
   if (f.gratuito) p.set("gratuito", "1");
   const busca = p.toString();
-  history.replaceState(null, "", busca ? `?${busca}` : location.pathname);
+  // o #atalho fica: o link de "Em cartaz" ou "Fique de olho" pode ser compartilhado
+  history.replaceState(null, "", (busca ? `?${busca}` : location.pathname) + location.hash);
 }
 
 function lerFiltros() {
@@ -184,9 +186,10 @@ function card(e, s) {
   return no;
 }
 
-function grupo(titulo, nota, itens) {
+function grupo(titulo, nota, itens, id) {
   const sec = document.createElement("section");
   sec.className = "grupo";
+  if (id) sec.id = id;
   const h2 = document.createElement("h2");
   h2.innerHTML = titulo;
   sec.append(h2);
@@ -239,14 +242,25 @@ function desenhar() {
   }
   if (cartaz.length) {
     cartaz.sort(([, a], [, b]) => a.ate.localeCompare(b.ate));
-    agenda.append(grupo("Em <b>cartaz</b>", "Exposições, mostras e temporadas que já começaram.", cartaz));
+    agenda.append(grupo("Em <b>cartaz</b>", "Exposições, mostras e temporadas que já começaram.", cartaz, "em-cartaz"));
   }
   if (semData.length) {
     // os projetos do Diário primeiro, depois o que já foi anunciado sem data
     const doDiario = (e) => (e.status === "previsto_fomento" ? 0 : 1);
     semData.sort(([a], [b]) => doDiario(a) - doDiario(b) || a.titulo.localeCompare(b.titulo, "pt"));
-    agenda.append(grupo("Fique de <b>olho</b>", "Projetos aprovados no Diário Oficial do DF e eventos já anunciados, ainda sem data marcada.", semData));
+    agenda.append(grupo("Fique de <b>olho</b>", "Projetos aprovados no Diário Oficial do DF e eventos já anunciados, ainda sem data marcada.", semData, "fique-de-olho"));
   }
+
+  // Em cartaz e Fique de olho vêm depois de todos os dias: os atalhos levam direto a eles
+  atalhos.replaceChildren();
+  for (const [rotulo, id, lista] of [["Em cartaz", "em-cartaz", cartaz], ["Fique de olho", "fique-de-olho", semData]]) {
+    if (!lista.length) continue;
+    const a = document.createElement("a");
+    a.href = `#${id}`;
+    a.innerHTML = `${rotulo} <b>${lista.length}</b>`;
+    atalhos.append(a);
+  }
+  atalhos.hidden = !atalhos.childElementCount;
 
   const n = itens.length;
   contagem.textContent = n ? `${n} ${n === 1 ? "evento" : "eventos"}` : "";
@@ -275,6 +289,8 @@ async function iniciar() {
   form.addEventListener("input", desenhar);
   form.addEventListener("submit", (ev) => ev.preventDefault());
   desenhar();
+  // a agenda é desenhada depois do carregamento: o navegador não achou a âncora do link
+  if (location.hash) document.getElementById(location.hash.slice(1))?.scrollIntoView();
 }
 
 iniciar();

@@ -70,6 +70,19 @@ a:hover { color: var(--nr-limao); }
 
 .contagem { margin: 0 0 var(--espaco-2); color: var(--nr-lavanda); font-size: 14px; letter-spacing: .5px; }
 
+/* Atalhos para as seções do fim da agenda */
+.atalhos { display: flex; flex-wrap: wrap; gap: var(--espaco-1); margin: 0 0 var(--espaco-3); }
+.atalhos[hidden] { display: none; }
+.atalhos a {
+  display: inline-flex; align-items: center; gap: 8px; padding: 8px 16px; border: 2px solid var(--nr-ameixa); border-radius: var(--nr-raio-pill);
+  background: var(--nr-ameixa); color: var(--nr-nevoa); font-size: 14px; font-weight: 700; letter-spacing: 1px; text-decoration: none;
+}
+.atalhos a::after { content: "↓"; color: var(--nr-limao); }
+.atalhos a b { color: var(--nr-limao); }
+.atalhos a:hover { border-color: var(--nr-limao); color: var(--nr-nevoa); }
+.grupo { scroll-margin-top: var(--espaco-3); }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+
 /* Agenda */
 .grupo { margin-bottom: var(--espaco-6); }
 .grupo h2 {
