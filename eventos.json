@@ -1,10 +1,10 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-04T22:08:29-03:00",
+ "gerado_em": "2026-11-04T22:49:42-03:00",
  "territorio": "Distrito Federal",
  "aviso": "Agenda coletada de fontes públicas (DODF, sites dos equipamentos culturais, bilheterias) pela Pheme. Datas, preços e locais podem mudar: confira sempre na fonte do evento.",
  "licenca": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
- "total": 97,
+ "total": 98,
  "eventos": [
   {
    "id": "evento-6352080a6bef",
@@ -470,6 +470,41 @@
    ],
    "primeira_deteccao": "2026-11-02T22:07:34.177986-03:00",
    "ultima_atualizacao": "2026-11-02T22:07:34.177986-03:00"
+  },
+  {
+   "id": "evento-22b14f8cef63",
+   "titulo": "Festival Bocadim 2026 – 11ª edição",
+   "categoria": "festival",
+   "status": "ingressos_a_venda",
+   "inicio": "2026-11-05T18:00:00-03:00",
+   "fim": "2026-11-07T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": null,
+   "local": "Arena do CONIC (SDS, Setor de Diversões Sul)",
+   "ras": [
+    "Plano Piloto"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": "https://shotgun.live/pt-br/events/festival-bocadim-11-edicao",
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": "Festival LGBTQIA+ de música independente, em três noites, com Rita Benneditto, Getúlio Abelha, Bruna Mendez e Haynna e os Verdes. Entrada gratuita, com retirada prévia do ingresso na Shotgun.",
+   "fontes": [
+    {
+     "nome": "divulgação",
+     "url": "https://mapadosfestivais.com.br/eventos/festival-bocadim-2026/"
+    }
+   ],
+   "historico": [
+    {
+     "status": "ingressos_a_venda",
+     "em": "2026-11-04T22:49:21.218164-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-04T22:49:21.218164-03:00",
+   "ultima_atualizacao": "2026-11-04T22:49:21.218164-03:00"
   },
   {
    "id": "evento-70cade7d067e",
