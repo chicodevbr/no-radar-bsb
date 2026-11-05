@@ -1,10 +1,10 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-04T22:51:56-03:00",
+ "gerado_em": "2026-11-04T23:07:36-03:00",
  "territorio": "Distrito Federal",
  "aviso": "Agenda coletada de fontes públicas (DODF, sites dos equipamentos culturais, bilheterias) pela Pheme. Datas, preços e locais podem mudar: confira sempre na fonte do evento.",
  "licenca": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
- "total": 98,
+ "total": 99,
  "eventos": [
   {
    "id": "evento-6352080a6bef",
@@ -258,6 +258,41 @@
    ],
    "primeira_deteccao": "2026-11-02T22:14:16.841217-03:00",
    "ultima_atualizacao": "2026-11-02T22:14:16.841217-03:00"
+  },
+  {
+   "id": "evento-12d8d7c917d3",
+   "titulo": "OJÚ — Visagem de Outros Tempos, de Rayza de Mina",
+   "categoria": "exposicao",
+   "status": "confirmado",
+   "inicio": "2026-10-31T15:00:00-03:00",
+   "fim": "2026-12-14T00:00:00-03:00",
+   "datas_extra": [],
+   "local_id": null,
+   "local": "Galeria A Pilastra (QE 40, Rua 09, Lote 08, Polo de Modas, Guará II)",
+   "ras": [
+    "Guará"
+   ],
+   "gratuito": true,
+   "preco_min": null,
+   "preco_max": null,
+   "link_ingresso": null,
+   "classificacao_etaria": null,
+   "acessibilidade": [],
+   "resumo": "Pinturas, desenhos, esculturas e instalações com miçangas, búzios e café, sobre negritude, diáspora africana e ancestralidade. Visitação de quarta a sábado, das 15h às 20h, com curadoria de Violet Vitória de Castro.",
+   "fontes": [
+    {
+     "nome": "divulgação",
+     "url": "https://visitebrasilia.com.br/noticias/em-oju-visagem-de-outros-tempos-rayza-de-mina-transforma-o-olhar-em-encontro-com-a-negritude-e-a-ancestralidade"
+    }
+   ],
+   "historico": [
+    {
+     "status": "confirmado",
+     "em": "2026-11-04T23:07:18.991800-03:00"
+    }
+   ],
+   "primeira_deteccao": "2026-11-04T23:07:18.991800-03:00",
+   "ultima_atualizacao": "2026-11-04T23:07:18.991800-03:00"
   },
   {
    "id": "evento-a1289ebd2007",
