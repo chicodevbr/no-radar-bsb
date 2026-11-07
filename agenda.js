@@ -47,13 +47,16 @@ function preco(e) {
   return "entrada a confirmar";
 }
 
-// A próxima data do evento a partir de hoje (sessões extras contam), e se está em cartaz
+// A próxima data do evento a partir de hoje (sessões extras contam), e se está em cartaz.
+// O eventos.json sai uma vez por semana: o que já passou desde então sai da agenda aqui.
 function situar(e) {
   const inicio = dia(e.inicio);
   const fim = dia(e.fim);
   if (!inicio) return { tipo: "sem_data" };
+  if (fim && fim < hoje) return { tipo: "passou" };
   if (fim && fim > inicio && inicio <= hoje) return { tipo: "cartaz", ate: fim };
   const datas = [e.inicio, ...e.datas_extra].filter((d) => dia(d) >= hoje).sort();
+  if (!datas.length && !(fim && fim >= hoje)) return { tipo: "passou" };
   const proxima = datas[0] || e.inicio;
   return { tipo: "dia", dia: dia(proxima), iso: proxima, extras: datas.length - 1, ate: fim && fim > dia(proxima) ? fim : null };
 }
@@ -211,7 +214,9 @@ function tituloDoDia(d) {
 function desenhar() {
   const f = lerFiltros();
   filtrosNaUrl(f);
-  const itens = dados.eventos.map((e) => [e, situar(e)]).filter(([e, s]) => passa(e, s, f));
+  const itens = dados.eventos
+    .map((e) => [e, situar(e)])
+    .filter(([e, s]) => s.tipo !== "passou" && passa(e, s, f));
 
   const porDia = new Map();
   const cartaz = [];
@@ -284,7 +289,7 @@ async function iniciar() {
   const gerado = new Date(dados.gerado_em);
   document.getElementById("atualizado").textContent =
     `Atualizado em ${gerado.toLocaleDateString("pt-BR", { timeZone: "America/Sao_Paulo" })}.`;
-  preencherOpcoes(dados.eventos);
+  preencherOpcoes(dados.eventos.filter((e) => situar(e).tipo !== "passou"));
   filtrosDaUrl();
   form.addEventListener("input", desenhar);
   form.addEventListener("submit", (ev) => ev.preventDefault());
